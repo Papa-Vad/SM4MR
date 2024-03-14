@@ -1,0 +1,1417 @@
+country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Armenia,1990,male,35-54 years,25,332700,7.51,Armenia1990,0.632,"2,256,838,858",756,Silent
+Armenia,1990,male,75+ years,2,26900,7.43,Armenia1990,0.632,"2,256,838,858",756,G.I. Generation
+Armenia,1990,male,55-74 years,11,183800,5.98,Armenia1990,0.632,"2,256,838,858",756,G.I. Generation
+Armenia,1990,male,25-34 years,16,307100,5.21,Armenia1990,0.632,"2,256,838,858",756,Boomers
+Armenia,1990,female,35-54 years,15,358000,4.19,Armenia1990,0.632,"2,256,838,858",756,Silent
+Armenia,1990,male,15-24 years,10,272500,3.67,Armenia1990,0.632,"2,256,838,858",756,Generation X
+Armenia,1990,female,55-74 years,6,224100,2.68,Armenia1990,0.632,"2,256,838,858",756,G.I. Generation
+Armenia,1990,female,75+ years,1,48900,2.04,Armenia1990,0.632,"2,256,838,858",756,G.I. Generation
+Armenia,1990,female,25-34 years,4,320700,1.25,Armenia1990,0.632,"2,256,838,858",756,Boomers
+Armenia,1990,female,15-24 years,3,258500,1.16,Armenia1990,0.632,"2,256,838,858",756,Generation X
+Armenia,1990,female,5-14 years,0,316900,0.0,Armenia1990,0.632,"2,256,838,858",756,Generation X
+Armenia,1990,male,5-14 years,0,333600,0.0,Armenia1990,0.632,"2,256,838,858",756,Generation X
+Armenia,1991,male,75+ years,5,28800,17.36,Armenia1991,,"2,068,526,522",640,G.I. Generation
+Armenia,1991,male,25-34 years,20,313800,6.37,Armenia1991,,"2,068,526,522",640,Boomers
+Armenia,1991,female,55-74 years,11,247900,4.44,Armenia1991,,"2,068,526,522",640,Silent
+Armenia,1991,male,55-74 years,9,203100,4.43,Armenia1991,,"2,068,526,522",640,Silent
+Armenia,1991,male,35-54 years,14,348500,4.02,Armenia1991,,"2,068,526,522",640,Boomers
+Armenia,1991,female,75+ years,2,52900,3.78,Armenia1991,,"2,068,526,522",640,G.I. Generation
+Armenia,1991,female,35-54 years,9,396300,2.27,Armenia1991,,"2,068,526,522",640,Boomers
+Armenia,1991,male,15-24 years,6,295300,2.03,Armenia1991,,"2,068,526,522",640,Generation X
+Armenia,1991,female,25-34 years,4,342100,1.17,Armenia1991,,"2,068,526,522",640,Boomers
+Armenia,1991,female,15-24 years,0,286400,0.0,Armenia1991,,"2,068,526,522",640,Generation X
+Armenia,1991,female,5-14 years,0,349500,0.0,Armenia1991,,"2,068,526,522",640,Millenials
+Armenia,1991,male,5-14 years,0,366200,0.0,Armenia1991,,"2,068,526,522",640,Millenials
+Armenia,1992,male,75+ years,3,28200,10.64,Armenia1992,,"1,272,577,456",385,G.I. Generation
+Armenia,1992,male,55-74 years,15,215100,6.97,Armenia1992,,"1,272,577,456",385,Silent
+Armenia,1992,male,35-54 years,22,360400,6.1,Armenia1992,,"1,272,577,456",385,Boomers
+Armenia,1992,male,25-34 years,15,312600,4.8,Armenia1992,,"1,272,577,456",385,Boomers
+Armenia,1992,female,55-74 years,10,263400,3.8,Armenia1992,,"1,272,577,456",385,Silent
+Armenia,1992,female,75+ years,2,53400,3.75,Armenia1992,,"1,272,577,456",385,G.I. Generation
+Armenia,1992,male,15-24 years,9,300300,3.0,Armenia1992,,"1,272,577,456",385,Generation X
+Armenia,1992,female,35-54 years,6,410800,1.46,Armenia1992,,"1,272,577,456",385,Boomers
+Armenia,1992,female,15-24 years,1,290100,0.34,Armenia1992,,"1,272,577,456",385,Generation X
+Armenia,1992,female,25-34 years,0,340900,0.0,Armenia1992,,"1,272,577,456",385,Boomers
+Armenia,1992,female,5-14 years,0,358200,0.0,Armenia1992,,"1,272,577,456",385,Millenials
+Armenia,1992,male,5-14 years,0,375300,0.0,Armenia1992,,"1,272,577,456",385,Millenials
+Armenia,1993,female,75+ years,6,53100,11.3,Armenia1993,,"1,201,313,201",357,G.I. Generation
+Armenia,1993,male,55-74 years,20,226400,8.83,Armenia1993,,"1,201,313,201",357,Silent
+Armenia,1993,male,75+ years,2,28400,7.04,Armenia1993,,"1,201,313,201",357,G.I. Generation
+Armenia,1993,male,35-54 years,25,371900,6.72,Armenia1993,,"1,201,313,201",357,Boomers
+Armenia,1993,male,25-34 years,17,305600,5.56,Armenia1993,,"1,201,313,201",357,Boomers
+Armenia,1993,female,55-74 years,14,276100,5.07,Armenia1993,,"1,201,313,201",357,Silent
+Armenia,1993,male,15-24 years,7,304800,2.3,Armenia1993,,"1,201,313,201",357,Generation X
+Armenia,1993,female,25-34 years,6,335900,1.79,Armenia1993,,"1,201,313,201",357,Boomers
+Armenia,1993,female,35-54 years,6,424000,1.42,Armenia1993,,"1,201,313,201",357,Boomers
+Armenia,1993,female,15-24 years,3,293900,1.02,Armenia1993,,"1,201,313,201",357,Generation X
+Armenia,1993,female,5-14 years,0,364200,0.0,Armenia1993,,"1,201,313,201",357,Millenials
+Armenia,1993,male,5-14 years,0,382300,0.0,Armenia1993,,"1,201,313,201",357,Millenials
+Armenia,1994,male,75+ years,7,28200,24.82,Armenia1994,,"1,315,158,670",387,G.I. Generation
+Armenia,1994,female,75+ years,5,51700,9.67,Armenia1994,,"1,315,158,670",387,G.I. Generation
+Armenia,1994,male,55-74 years,20,235500,8.49,Armenia1994,,"1,315,158,670",387,Silent
+Armenia,1994,male,35-54 years,31,382500,8.1,Armenia1994,,"1,315,158,670",387,Boomers
+Armenia,1994,female,55-74 years,18,286000,6.29,Armenia1994,,"1,315,158,670",387,Silent
+Armenia,1994,male,25-34 years,10,297000,3.37,Armenia1994,,"1,315,158,670",387,Boomers
+Armenia,1994,male,15-24 years,6,308300,1.95,Armenia1994,,"1,315,158,670",387,Generation X
+Armenia,1994,female,35-54 years,7,437100,1.6,Armenia1994,,"1,315,158,670",387,Boomers
+Armenia,1994,female,15-24 years,4,297600,1.34,Armenia1994,,"1,315,158,670",387,Generation X
+Armenia,1994,male,5-14 years,2,385400,0.52,Armenia1994,,"1,315,158,670",387,Millenials
+Armenia,1994,female,25-34 years,1,326200,0.31,Armenia1994,,"1,315,158,670",387,Boomers
+Armenia,1994,female,5-14 years,1,367000,0.27,Armenia1994,,"1,315,158,670",387,Millenials
+Armenia,1995,male,55-74 years,29,242300,11.97,Armenia1995,0.605,"1,468,317,350",426,Silent
+Armenia,1995,male,35-54 years,32,395200,8.1,Armenia1995,0.605,"1,468,317,350",426,Boomers
+Armenia,1995,male,25-34 years,21,289500,7.25,Armenia1995,0.605,"1,468,317,350",426,Generation X
+Armenia,1995,male,75+ years,2,28000,7.14,Armenia1995,0.605,"1,468,317,350",426,G.I. Generation
+Armenia,1995,female,75+ years,2,51400,3.89,Armenia1995,0.605,"1,468,317,350",426,G.I. Generation
+Armenia,1995,female,55-74 years,11,295200,3.73,Armenia1995,0.605,"1,468,317,350",426,Silent
+Armenia,1995,female,25-34 years,11,313300,3.51,Armenia1995,0.605,"1,468,317,350",426,Generation X
+Armenia,1995,male,15-24 years,10,313600,3.19,Armenia1995,0.605,"1,468,317,350",426,Generation X
+Armenia,1995,female,35-54 years,8,453600,1.76,Armenia1995,0.605,"1,468,317,350",426,Boomers
+Armenia,1995,female,15-24 years,3,303200,0.99,Armenia1995,0.605,"1,468,317,350",426,Generation X
+Armenia,1995,male,5-14 years,1,388200,0.26,Armenia1995,0.605,"1,468,317,350",426,Millenials
+Armenia,1995,female,5-14 years,0,369700,0.0,Armenia1995,0.605,"1,468,317,350",426,Millenials
+Armenia,1996,male,75+ years,3,27900,10.75,Armenia1996,,"1,596,968,913",458,G.I. Generation
+Armenia,1996,male,55-74 years,18,246200,7.31,Armenia1996,,"1,596,968,913",458,Silent
+Armenia,1996,male,35-54 years,24,409800,5.86,Armenia1996,,"1,596,968,913",458,Boomers
+Armenia,1996,male,25-34 years,13,284300,4.57,Armenia1996,,"1,596,968,913",458,Generation X
+Armenia,1996,female,55-74 years,12,301900,3.97,Armenia1996,,"1,596,968,913",458,Silent
+Armenia,1996,female,35-54 years,7,471200,1.49,Armenia1996,,"1,596,968,913",458,Boomers
+Armenia,1996,male,15-24 years,4,320000,1.25,Armenia1996,,"1,596,968,913",458,Generation X
+Armenia,1996,female,25-34 years,3,301500,1.0,Armenia1996,,"1,596,968,913",458,Generation X
+Armenia,1996,female,15-24 years,1,310200,0.32,Armenia1996,,"1,596,968,913",458,Generation X
+Armenia,1996,female,5-14 years,1,371900,0.27,Armenia1996,,"1,596,968,913",458,Millenials
+Armenia,1996,male,5-14 years,1,390300,0.26,Armenia1996,,"1,596,968,913",458,Millenials
+Armenia,1996,female,75+ years,0,51100,0.0,Armenia1996,,"1,596,968,913",458,G.I. Generation
+Armenia,1997,male,55-74 years,21,246200,8.53,Armenia1997,,"1,639,492,424",465,Silent
+Armenia,1997,male,35-54 years,26,426000,6.1,Armenia1997,,"1,639,492,424",465,Boomers
+Armenia,1997,female,75+ years,3,51400,5.84,Armenia1997,,"1,639,492,424",465,G.I. Generation
+Armenia,1997,male,75+ years,1,28500,3.51,Armenia1997,,"1,639,492,424",465,G.I. Generation
+Armenia,1997,male,25-34 years,9,282000,3.19,Armenia1997,,"1,639,492,424",465,Generation X
+Armenia,1997,female,55-74 years,8,304400,2.63,Armenia1997,,"1,639,492,424",465,Silent
+Armenia,1997,male,15-24 years,4,327300,1.22,Armenia1997,,"1,639,492,424",465,Generation X
+Armenia,1997,female,35-54 years,3,489900,0.61,Armenia1997,,"1,639,492,424",465,Boomers
+Armenia,1997,female,25-34 years,1,294200,0.34,Armenia1997,,"1,639,492,424",465,Generation X
+Armenia,1997,male,5-14 years,1,389500,0.26,Armenia1997,,"1,639,492,424",465,Millenials
+Armenia,1997,female,15-24 years,0,316500,0.0,Armenia1997,,"1,639,492,424",465,Generation X
+Armenia,1997,female,5-14 years,0,370800,0.0,Armenia1997,,"1,639,492,424",465,Millenials
+Armenia,1998,male,75+ years,2,29600,6.76,Armenia1998,,"1,893,726,437",532,G.I. Generation
+Armenia,1998,male,55-74 years,16,243300,6.58,Armenia1998,,"1,893,726,437",532,Silent
+Armenia,1998,male,35-54 years,20,445000,4.49,Armenia1998,,"1,893,726,437",532,Boomers
+Armenia,1998,male,25-34 years,6,280200,2.14,Armenia1998,,"1,893,726,437",532,Generation X
+Armenia,1998,female,55-74 years,6,302000,1.99,Armenia1998,,"1,893,726,437",532,Silent
+Armenia,1998,female,75+ years,1,53100,1.88,Armenia1998,,"1,893,726,437",532,G.I. Generation
+Armenia,1998,female,35-54 years,9,509800,1.77,Armenia1998,,"1,893,726,437",532,Boomers
+Armenia,1998,male,15-24 years,4,335100,1.19,Armenia1998,,"1,893,726,437",532,Generation X
+Armenia,1998,female,25-34 years,1,289300,0.35,Armenia1998,,"1,893,726,437",532,Generation X
+Armenia,1998,female,5-14 years,1,364600,0.27,Armenia1998,,"1,893,726,437",532,Millenials
+Armenia,1998,female,15-24 years,0,322300,0.0,Armenia1998,,"1,893,726,437",532,Generation X
+Armenia,1998,male,5-14 years,0,383700,0.0,Armenia1998,,"1,893,726,437",532,Millenials
+Armenia,1999,male,55-74 years,15,238100,6.3,Armenia1999,,"1,845,482,181",515,Silent
+Armenia,1999,female,75+ years,3,56800,5.28,Armenia1999,,"1,845,482,181",515,G.I. Generation
+Armenia,1999,male,35-54 years,22,464300,4.74,Armenia1999,,"1,845,482,181",515,Boomers
+Armenia,1999,female,55-74 years,9,296800,3.03,Armenia1999,,"1,845,482,181",515,Silent
+Armenia,1999,male,25-34 years,6,279800,2.14,Armenia1999,,"1,845,482,181",515,Generation X
+Armenia,1999,male,15-24 years,6,344000,1.74,Armenia1999,,"1,845,482,181",515,Generation X
+Armenia,1999,female,35-54 years,4,530700,0.75,Armenia1999,,"1,845,482,181",515,Boomers
+Armenia,1999,female,25-34 years,2,284300,0.7,Armenia1999,,"1,845,482,181",515,Generation X
+Armenia,1999,female,15-24 years,0,329700,0.0,Armenia1999,,"1,845,482,181",515,Generation X
+Armenia,1999,female,5-14 years,0,352300,0.0,Armenia1999,,"1,845,482,181",515,Millenials
+Armenia,1999,male,5-14 years,0,371600,0.0,Armenia1999,,"1,845,482,181",515,Millenials
+Armenia,1999,male,75+ years,0,32300,0.0,Armenia1999,,"1,845,482,181",515,G.I. Generation
+Armenia,2000,male,75+ years,4,37600,10.64,Armenia2000,0.648,"1,911,563,665",530,G.I. Generation
+Armenia,2000,female,75+ years,5,66500,7.52,Armenia2000,0.648,"1,911,563,665",530,G.I. Generation
+Armenia,2000,male,55-74 years,14,234300,5.98,Armenia2000,0.648,"1,911,563,665",530,Silent
+Armenia,2000,male,35-54 years,18,481100,3.74,Armenia2000,0.648,"1,911,563,665",530,Boomers
+Armenia,2000,male,25-34 years,5,283300,1.76,Armenia2000,0.648,"1,911,563,665",530,Generation X
+Armenia,2000,male,15-24 years,6,358000,1.68,Armenia2000,0.648,"1,911,563,665",530,Generation X
+Armenia,2000,female,25-34 years,4,280400,1.43,Armenia2000,0.648,"1,911,563,665",530,Generation X
+Armenia,2000,female,55-74 years,4,292700,1.37,Armenia2000,0.648,"1,911,563,665",530,Silent
+Armenia,2000,female,35-54 years,1,555300,0.18,Armenia2000,0.648,"1,911,563,665",530,Boomers
+Armenia,2000,female,15-24 years,0,341100,0.0,Armenia2000,0.648,"1,911,563,665",530,Generation X
+Armenia,2000,female,5-14 years,0,328000,0.0,Armenia2000,0.648,"1,911,563,665",530,Millenials
+Armenia,2000,male,5-14 years,0,348200,0.0,Armenia2000,0.648,"1,911,563,665",530,Millenials
+Armenia,2001,male,55-74 years,17,227605,7.47,Armenia2001,,"2,118,467,913",587,Silent
+Armenia,2001,male,75+ years,3,40190,7.46,Armenia2001,,"2,118,467,913",587,Silent
+Armenia,2001,female,75+ years,4,66283,6.03,Armenia2001,,"2,118,467,913",587,Silent
+Armenia,2001,male,35-54 years,19,493922,3.85,Armenia2001,,"2,118,467,913",587,Boomers
+Armenia,2001,female,55-74 years,4,289601,1.38,Armenia2001,,"2,118,467,913",587,Silent
+Armenia,2001,male,15-24 years,4,361248,1.11,Armenia2001,,"2,118,467,913",587,Millenials
+Armenia,2001,male,5-14 years,3,337767,0.89,Armenia2001,,"2,118,467,913",587,Millenials
+Armenia,2001,male,25-34 years,2,284346,0.7,Armenia2001,,"2,118,467,913",587,Generation X
+Armenia,2001,female,35-54 years,3,563626,0.53,Armenia2001,,"2,118,467,913",587,Boomers
+Armenia,2001,female,25-34 years,1,279953,0.36,Armenia2001,,"2,118,467,913",587,Generation X
+Armenia,2001,female,15-24 years,0,346468,0.0,Armenia2001,,"2,118,467,913",587,Millenials
+Armenia,2001,female,5-14 years,0,319507,0.0,Armenia2001,,"2,118,467,913",587,Millenials
+Armenia,2002,male,75+ years,3,29067,10.32,Armenia2002,,"2,376,335,048",788,Silent
+Armenia,2002,male,55-74 years,19,196525,9.67,Armenia2002,,"2,376,335,048",788,Silent
+Armenia,2002,male,25-34 years,12,206403,5.81,Armenia2002,,"2,376,335,048",788,Generation X
+Armenia,2002,male,35-54 years,22,418464,5.26,Armenia2002,,"2,376,335,048",788,Boomers
+Armenia,2002,female,75+ years,1,58553,1.71,Armenia2002,,"2,376,335,048",788,Silent
+Armenia,2002,male,15-24 years,5,293350,1.7,Armenia2002,,"2,376,335,048",788,Millenials
+Armenia,2002,female,35-54 years,6,469992,1.28,Armenia2002,,"2,376,335,048",788,Boomers
+Armenia,2002,female,55-74 years,3,251856,1.19,Armenia2002,,"2,376,335,048",788,Silent
+Armenia,2002,female,25-34 years,1,222943,0.45,Armenia2002,,"2,376,335,048",788,Generation X
+Armenia,2002,male,5-14 years,1,294209,0.34,Armenia2002,,"2,376,335,048",788,Millenials
+Armenia,2002,female,15-24 years,1,294739,0.34,Armenia2002,,"2,376,335,048",788,Millenials
+Armenia,2002,female,5-14 years,0,278743,0.0,Armenia2002,,"2,376,335,048",788,Millenials
+Armenia,2003,male,75+ years,3,32495,9.23,Armenia2003,,"2,807,061,009",928,Silent
+Armenia,2003,male,55-74 years,14,194165,7.21,Armenia2003,,"2,807,061,009",928,Silent
+Armenia,2003,male,35-54 years,21,423001,4.96,Armenia2003,,"2,807,061,009",928,Boomers
+Armenia,2003,female,75+ years,3,62935,4.77,Armenia2003,,"2,807,061,009",928,Silent
+Armenia,2003,male,25-34 years,10,210715,4.75,Armenia2003,,"2,807,061,009",928,Generation X
+Armenia,2003,female,55-74 years,3,249909,1.2,Armenia2003,,"2,807,061,009",928,Silent
+Armenia,2003,female,35-54 years,3,473959,0.63,Armenia2003,,"2,807,061,009",928,Boomers
+Armenia,2003,male,5-14 years,1,283952,0.35,Armenia2003,,"2,807,061,009",928,Millenials
+Armenia,2003,male,15-24 years,1,300902,0.33,Armenia2003,,"2,807,061,009",928,Millenials
+Armenia,2003,female,15-24 years,0,300080,0.0,Armenia2003,,"2,807,061,009",928,Millenials
+Armenia,2003,female,25-34 years,0,225313,0.0,Armenia2003,,"2,807,061,009",928,Generation X
+Armenia,2003,female,5-14 years,0,266940,0.0,Armenia2003,,"2,807,061,009",928,Millenials
+Armenia,2006,male,75+ years,6,48123,12.47,Armenia2006,,"6,384,451,606",2310,Silent
+Armenia,2006,male,55-74 years,21,184526,11.38,Armenia2006,,"6,384,451,606",2310,Silent
+Armenia,2006,male,35-54 years,17,367346,4.63,Armenia2006,,"6,384,451,606",2310,Boomers
+Armenia,2006,male,15-24 years,10,276127,3.62,Armenia2006,,"6,384,451,606",2310,Millenials
+Armenia,2006,female,55-74 years,8,238745,3.35,Armenia2006,,"6,384,451,606",2310,Silent
+Armenia,2006,male,25-34 years,6,188382,3.19,Armenia2006,,"6,384,451,606",2310,Generation X
+Armenia,2006,female,75+ years,2,78684,2.54,Armenia2006,,"6,384,451,606",2310,Silent
+Armenia,2006,female,35-54 years,5,450477,1.11,Armenia2006,,"6,384,451,606",2310,Boomers
+Armenia,2006,female,25-34 years,2,215884,0.93,Armenia2006,,"6,384,451,606",2310,Generation X
+Armenia,2006,male,5-14 years,1,221941,0.45,Armenia2006,,"6,384,451,606",2310,Millenials
+Armenia,2006,female,15-24 years,0,290966,0.0,Armenia2006,,"6,384,451,606",2310,Millenials
+Armenia,2006,female,5-14 years,0,203195,0.0,Armenia2006,,"6,384,451,606",2310,Millenials
+Armenia,2007,male,75+ years,7,49296,14.2,Armenia2007,,"9,206,301,700",3366,Silent
+Armenia,2007,male,55-74 years,13,185290,7.02,Armenia2007,,"9,206,301,700",3366,Silent
+Armenia,2007,male,35-54 years,19,362189,5.25,Armenia2007,,"9,206,301,700",3366,Boomers
+Armenia,2007,female,55-74 years,8,240998,3.32,Armenia2007,,"9,206,301,700",3366,Silent
+Armenia,2007,male,15-24 years,7,272188,2.57,Armenia2007,,"9,206,301,700",3366,Millenials
+Armenia,2007,male,25-34 years,4,191561,2.09,Armenia2007,,"9,206,301,700",3366,Generation X
+Armenia,2007,female,35-54 years,8,444817,1.8,Armenia2007,,"9,206,301,700",3366,Boomers
+Armenia,2007,female,75+ years,1,79210,1.26,Armenia2007,,"9,206,301,700",3366,Silent
+Armenia,2007,female,15-24 years,3,288510,1.04,Armenia2007,,"9,206,301,700",3366,Millenials
+Armenia,2007,male,5-14 years,1,210620,0.47,Armenia2007,,"9,206,301,700",3366,Generation Z
+Armenia,2007,female,25-34 years,0,220144,0.0,Armenia2007,,"9,206,301,700",3366,Generation X
+Armenia,2007,female,5-14 years,0,190490,0.0,Armenia2007,,"9,206,301,700",3366,Generation Z
+Armenia,2008,male,75+ years,7,46886,14.93,Armenia2008,,"11,662,040,714",3829,Silent
+Armenia,2008,male,55-74 years,18,198978,9.05,Armenia2008,,"11,662,040,714",3829,Silent
+Armenia,2008,male,35-54 years,11,429649,2.56,Armenia2008,,"11,662,040,714",3829,Boomers
+Armenia,2008,female,35-54 years,10,477501,2.09,Armenia2008,,"11,662,040,714",3829,Boomers
+Armenia,2008,female,55-74 years,5,260264,1.92,Armenia2008,,"11,662,040,714",3829,Silent
+Armenia,2008,male,25-34 years,4,250190,1.6,Armenia2008,,"11,662,040,714",3829,Generation X
+Armenia,2008,male,15-24 years,3,317794,0.94,Armenia2008,,"11,662,040,714",3829,Millenials
+Armenia,2008,female,25-34 years,2,254728,0.79,Armenia2008,,"11,662,040,714",3829,Generation X
+Armenia,2008,female,5-14 years,1,198065,0.5,Armenia2008,,"11,662,040,714",3829,Generation Z
+Armenia,2008,male,5-14 years,1,220896,0.45,Armenia2008,,"11,662,040,714",3829,Generation Z
+Armenia,2008,female,15-24 years,1,309009,0.32,Armenia2008,,"11,662,040,714",3829,Millenials
+Armenia,2008,female,75+ years,0,81431,0.0,Armenia2008,,"11,662,040,714",3829,Silent
+Armenia,2009,male,75+ years,8,50759,15.76,Armenia2009,,"8,647,936,748",3215,Silent
+Armenia,2009,male,55-74 years,11,189632,5.8,Armenia2009,,"8,647,936,748",3215,Silent
+Armenia,2009,male,35-54 years,17,351694,4.83,Armenia2009,,"8,647,936,748",3215,Boomers
+Armenia,2009,male,15-24 years,5,259772,1.92,Armenia2009,,"8,647,936,748",3215,Millenials
+Armenia,2009,female,75+ years,1,79728,1.25,Armenia2009,,"8,647,936,748",3215,Silent
+Armenia,2009,female,55-74 years,3,248767,1.21,Armenia2009,,"8,647,936,748",3215,Silent
+Armenia,2009,male,25-34 years,2,198646,1.01,Armenia2009,,"8,647,936,748",3215,Generation X
+Armenia,2009,female,25-34 years,2,230582,0.87,Armenia2009,,"8,647,936,748",3215,Generation X
+Armenia,2009,female,35-54 years,3,433390,0.69,Armenia2009,,"8,647,936,748",3215,Boomers
+Armenia,2009,female,15-24 years,1,278535,0.36,Armenia2009,,"8,647,936,748",3215,Millenials
+Armenia,2009,female,5-14 years,0,172560,0.0,Armenia2009,,"8,647,936,748",3215,Generation Z
+Armenia,2009,male,5-14 years,0,195630,0.0,Armenia2009,,"8,647,936,748",3215,Generation Z
+Armenia,2010,male,75+ years,6,52333,11.47,Armenia2010,0.721,"9,260,284,938",3460,Silent
+Armenia,2010,male,55-74 years,13,193100,6.73,Armenia2010,0.721,"9,260,284,938",3460,Silent
+Armenia,2010,male,25-34 years,10,202936,4.93,Armenia2010,0.721,"9,260,284,938",3460,Generation X
+Armenia,2010,male,35-54 years,15,346739,4.33,Armenia2010,0.721,"9,260,284,938",3460,Generation X
+Armenia,2010,male,15-24 years,8,252152,3.17,Armenia2010,0.721,"9,260,284,938",3460,Millenials
+Armenia,2010,female,55-74 years,7,253182,2.76,Armenia2010,0.721,"9,260,284,938",3460,Silent
+Armenia,2010,female,75+ years,2,81770,2.45,Armenia2010,0.721,"9,260,284,938",3460,Silent
+Armenia,2010,female,5-14 years,2,167142,1.2,Armenia2010,0.721,"9,260,284,938",3460,Generation Z
+Armenia,2010,female,35-54 years,5,427571,1.17,Armenia2010,0.721,"9,260,284,938",3460,Generation X
+Armenia,2010,male,5-14 years,2,191722,1.04,Armenia2010,0.721,"9,260,284,938",3460,Generation Z
+Armenia,2010,female,15-24 years,2,270727,0.74,Armenia2010,0.721,"9,260,284,938",3460,Millenials
+Armenia,2010,female,25-34 years,1,236851,0.42,Armenia2010,0.721,"9,260,284,938",3460,Generation X
+Armenia,2011,female,75+ years,6,86643,6.92,Armenia2011,0.723,"10,142,111,334",3798,Silent
+Armenia,2011,male,35-54 years,23,341199,6.74,Armenia2011,0.723,"10,142,111,334",3798,Generation X
+Armenia,2011,male,55-74 years,11,194982,5.64,Armenia2011,0.723,"10,142,111,334",3798,Boomers
+Armenia,2011,male,25-34 years,8,209914,3.81,Armenia2011,0.723,"10,142,111,334",3798,Millenials
+Armenia,2011,male,75+ years,2,55565,3.6,Armenia2011,0.723,"10,142,111,334",3798,Silent
+Armenia,2011,male,15-24 years,7,245227,2.85,Armenia2011,0.723,"10,142,111,334",3798,Millenials
+Armenia,2011,female,15-24 years,4,259823,1.54,Armenia2011,0.723,"10,142,111,334",3798,Millenials
+Armenia,2011,female,55-74 years,3,256541,1.17,Armenia2011,0.723,"10,142,111,334",3798,Boomers
+Armenia,2011,female,35-54 years,3,422179,0.71,Armenia2011,0.723,"10,142,111,334",3798,Generation X
+Armenia,2011,female,25-34 years,0,244912,0.0,Armenia2011,0.723,"10,142,111,334",3798,Millenials
+Armenia,2011,female,5-14 years,0,164004,0.0,Armenia2011,0.723,"10,142,111,334",3798,Generation Z
+Armenia,2011,male,5-14 years,0,189377,0.0,Armenia2011,0.723,"10,142,111,334",3798,Generation Z
+Armenia,2012,male,75+ years,5,56598,8.83,Armenia2012,0.728,"10,619,320,049",3773,Silent
+Armenia,2012,male,35-54 years,26,376743,6.9,Armenia2012,0.728,"10,619,320,049",3773,Generation X
+Armenia,2012,male,55-74 years,11,212482,5.18,Armenia2012,0.728,"10,619,320,049",3773,Boomers
+Armenia,2012,male,25-34 years,11,245443,4.48,Armenia2012,0.728,"10,619,320,049",3773,Millenials
+Armenia,2012,female,75+ years,3,91237,3.29,Armenia2012,0.728,"10,619,320,049",3773,Silent
+Armenia,2012,male,15-24 years,5,255119,1.96,Armenia2012,0.728,"10,619,320,049",3773,Millenials
+Armenia,2012,female,35-54 years,7,428953,1.63,Armenia2012,0.728,"10,619,320,049",3773,Generation X
+Armenia,2012,female,25-34 years,4,259768,1.54,Armenia2012,0.728,"10,619,320,049",3773,Millenials
+Armenia,2012,female,55-74 years,4,273394,1.46,Armenia2012,0.728,"10,619,320,049",3773,Boomers
+Armenia,2012,female,15-24 years,2,255088,0.78,Armenia2012,0.728,"10,619,320,049",3773,Millenials
+Armenia,2012,male,5-14 years,1,192409,0.52,Armenia2012,0.728,"10,619,320,049",3773,Generation Z
+Armenia,2012,female,5-14 years,0,167066,0.0,Armenia2012,0.728,"10,619,320,049",3773,Generation Z
+Armenia,2013,male,75+ years,7,58640,11.94,Armenia2013,0.731,"11,121,465,767",3957,Silent
+Armenia,2013,female,75+ years,6,95093,6.31,Armenia2013,0.731,"11,121,465,767",3957,Silent
+Armenia,2013,male,55-74 years,11,218063,5.04,Armenia2013,0.731,"11,121,465,767",3957,Boomers
+Armenia,2013,female,55-74 years,11,280566,3.92,Armenia2013,0.731,"11,121,465,767",3957,Boomers
+Armenia,2013,male,25-34 years,9,250487,3.59,Armenia2013,0.731,"11,121,465,767",3957,Millenials
+Armenia,2013,male,35-54 years,13,370440,3.51,Armenia2013,0.731,"11,121,465,767",3957,Generation X
+Armenia,2013,female,35-54 years,6,423841,1.42,Armenia2013,0.731,"11,121,465,767",3957,Generation X
+Armenia,2013,male,15-24 years,2,243687,0.82,Armenia2013,0.731,"11,121,465,767",3957,Millenials
+Armenia,2013,male,5-14 years,1,193754,0.52,Armenia2013,0.731,"11,121,465,767",3957,Generation Z
+Armenia,2013,female,15-24 years,1,242386,0.41,Armenia2013,0.731,"11,121,465,767",3957,Millenials
+Armenia,2013,female,25-34 years,0,265616,0.0,Armenia2013,0.731,"11,121,465,767",3957,Millenials
+Armenia,2013,female,5-14 years,0,168091,0.0,Armenia2013,0.731,"11,121,465,767",3957,Generation Z
+Armenia,2014,male,75+ years,9,60108,14.97,Armenia2014,0.733,"11,609,512,940",4142,Silent
+Armenia,2014,female,75+ years,6,98118,6.12,Armenia2014,0.733,"11,609,512,940",4142,Silent
+Armenia,2014,male,55-74 years,12,224430,5.35,Armenia2014,0.733,"11,609,512,940",4142,Boomers
+Armenia,2014,male,35-54 years,13,363362,3.58,Armenia2014,0.733,"11,609,512,940",4142,Generation X
+Armenia,2014,male,25-34 years,6,253461,2.37,Armenia2014,0.733,"11,609,512,940",4142,Millenials
+Armenia,2014,female,55-74 years,4,288822,1.38,Armenia2014,0.733,"11,609,512,940",4142,Boomers
+Armenia,2014,male,15-24 years,3,230760,1.3,Armenia2014,0.733,"11,609,512,940",4142,Millenials
+Armenia,2014,female,15-24 years,2,227895,0.88,Armenia2014,0.733,"11,609,512,940",4142,Millenials
+Armenia,2014,female,5-14 years,1,171332,0.58,Armenia2014,0.733,"11,609,512,940",4142,Generation Z
+Armenia,2014,female,35-54 years,2,417829,0.48,Armenia2014,0.733,"11,609,512,940",4142,Generation X
+Armenia,2014,female,25-34 years,0,269937,0.0,Armenia2014,0.733,"11,609,512,940",4142,Millenials
+Armenia,2014,male,5-14 years,0,196975,0.0,Armenia2014,0.733,"11,609,512,940",4142,Generation Z
+Belarus,1990,male,35-54 years,729,1199400,60.78,Belarus1990,,"21,650,000,000",2301,Silent
+Belarus,1990,male,55-74 years,363,714100,50.83,Belarus1990,,"21,650,000,000",2301,G.I. Generation
+Belarus,1990,male,75+ years,59,123400,47.81,Belarus1990,,"21,650,000,000",2301,G.I. Generation
+Belarus,1990,male,25-34 years,359,844900,42.49,Belarus1990,,"21,650,000,000",2301,Boomers
+Belarus,1990,male,15-24 years,132,702900,18.78,Belarus1990,,"21,650,000,000",2301,Generation X
+Belarus,1990,female,75+ years,61,339400,17.97,Belarus1990,,"21,650,000,000",2301,G.I. Generation
+Belarus,1990,female,55-74 years,158,1101700,14.34,Belarus1990,,"21,650,000,000",2301,G.I. Generation
+Belarus,1990,female,35-54 years,144,1284200,11.21,Belarus1990,,"21,650,000,000",2301,Silent
+Belarus,1990,female,25-34 years,45,839200,5.36,Belarus1990,,"21,650,000,000",2301,Boomers
+Belarus,1990,female,15-24 years,24,706500,3.4,Belarus1990,,"21,650,000,000",2301,Generation X
+Belarus,1990,male,5-14 years,8,789500,1.01,Belarus1990,,"21,650,000,000",2301,Generation X
+Belarus,1990,female,5-14 years,3,763600,0.39,Belarus1990,,"21,650,000,000",2301,Generation X
+Belarus,1991,male,35-54 years,756,1217200,62.11,Belarus1991,,"18,000,000,000",1899,Boomers
+Belarus,1991,male,75+ years,71,114800,61.85,Belarus1991,,"18,000,000,000",1899,G.I. Generation
+Belarus,1991,male,55-74 years,401,747600,53.64,Belarus1991,,"18,000,000,000",1899,Silent
+Belarus,1991,male,25-34 years,342,826400,41.38,Belarus1991,,"18,000,000,000",1899,Boomers
+Belarus,1991,female,75+ years,72,325800,22.1,Belarus1991,,"18,000,000,000",1899,G.I. Generation
+Belarus,1991,male,15-24 years,143,699100,20.45,Belarus1991,,"18,000,000,000",1899,Generation X
+Belarus,1991,female,55-74 years,175,1136700,15.4,Belarus1991,,"18,000,000,000",1899,Silent
+Belarus,1991,female,35-54 years,121,1294600,9.35,Belarus1991,,"18,000,000,000",1899,Boomers
+Belarus,1991,female,25-34 years,42,823200,5.1,Belarus1991,,"18,000,000,000",1899,Boomers
+Belarus,1991,female,15-24 years,30,702100,4.27,Belarus1991,,"18,000,000,000",1899,Generation X
+Belarus,1991,male,5-14 years,14,807600,1.73,Belarus1991,,"18,000,000,000",1899,Millenials
+Belarus,1991,female,5-14 years,2,781100,0.26,Belarus1991,,"18,000,000,000",1899,Millenials
+Belarus,1992,male,35-54 years,845,1236700,68.33,Belarus1992,,"17,037,037,037",1780,Boomers
+Belarus,1992,male,55-74 years,459,774900,59.23,Belarus1992,,"17,037,037,037",1780,Silent
+Belarus,1992,male,75+ years,57,108800,52.39,Belarus1992,,"17,037,037,037",1780,G.I. Generation
+Belarus,1992,male,25-34 years,397,812400,48.87,Belarus1992,,"17,037,037,037",1780,Boomers
+Belarus,1992,male,15-24 years,166,708800,23.42,Belarus1992,,"17,037,037,037",1780,Generation X
+Belarus,1992,female,75+ years,68,314000,21.66,Belarus1992,,"17,037,037,037",1780,G.I. Generation
+Belarus,1992,female,55-74 years,160,1171400,13.66,Belarus1992,,"17,037,037,037",1780,Silent
+Belarus,1992,female,35-54 years,157,1309400,11.99,Belarus1992,,"17,037,037,037",1780,Boomers
+Belarus,1992,female,25-34 years,50,811300,6.16,Belarus1992,,"17,037,037,037",1780,Boomers
+Belarus,1992,female,15-24 years,31,708000,4.38,Belarus1992,,"17,037,037,037",1780,Generation X
+Belarus,1992,male,5-14 years,30,821500,3.65,Belarus1992,,"17,037,037,037",1780,Millenials
+Belarus,1992,female,5-14 years,4,793700,0.5,Belarus1992,,"17,037,037,037",1780,Millenials
+Belarus,1993,male,35-54 years,1072,1254600,85.45,Belarus1993,,"16,280,991,736",1689,Boomers
+Belarus,1993,male,55-74 years,577,792900,72.77,Belarus1993,,"16,280,991,736",1689,Silent
+Belarus,1993,male,75+ years,64,105900,60.43,Belarus1993,,"16,280,991,736",1689,G.I. Generation
+Belarus,1993,male,25-34 years,454,789200,57.53,Belarus1993,,"16,280,991,736",1689,Boomers
+Belarus,1993,male,15-24 years,175,723100,24.2,Belarus1993,,"16,280,991,736",1689,Generation X
+Belarus,1993,female,75+ years,64,310600,20.61,Belarus1993,,"16,280,991,736",1689,G.I. Generation
+Belarus,1993,female,55-74 years,198,1193700,16.59,Belarus1993,,"16,280,991,736",1689,Silent
+Belarus,1993,female,35-54 years,164,1323600,12.39,Belarus1993,,"16,280,991,736",1689,Boomers
+Belarus,1993,female,25-34 years,58,794600,7.3,Belarus1993,,"16,280,991,736",1689,Boomers
+Belarus,1993,female,15-24 years,37,713800,5.18,Belarus1993,,"16,280,991,736",1689,Generation X
+Belarus,1993,male,5-14 years,18,834500,2.16,Belarus1993,,"16,280,991,736",1689,Millenials
+Belarus,1993,female,5-14 years,4,804600,0.5,Belarus1993,,"16,280,991,736",1689,Millenials
+Belarus,1994,male,35-54 years,1156,1258800,91.83,Belarus1994,,"14,932,024,169",1547,Boomers
+Belarus,1994,male,55-74 years,671,797700,84.12,Belarus1994,,"14,932,024,169",1547,Silent
+Belarus,1994,male,75+ years,73,103700,70.4,Belarus1994,,"14,932,024,169",1547,G.I. Generation
+Belarus,1994,male,25-34 years,458,773000,59.25,Belarus1994,,"14,932,024,169",1547,Boomers
+Belarus,1994,male,15-24 years,208,726000,28.65,Belarus1994,,"14,932,024,169",1547,Generation X
+Belarus,1994,female,75+ years,69,307500,22.44,Belarus1994,,"14,932,024,169",1547,G.I. Generation
+Belarus,1994,female,55-74 years,227,1206100,18.82,Belarus1994,,"14,932,024,169",1547,Silent
+Belarus,1994,female,35-54 years,177,1336000,13.25,Belarus1994,,"14,932,024,169",1547,Boomers
+Belarus,1994,female,25-34 years,60,784400,7.65,Belarus1994,,"14,932,024,169",1547,Boomers
+Belarus,1994,female,15-24 years,36,719700,5.0,Belarus1994,,"14,932,024,169",1547,Generation X
+Belarus,1994,male,5-14 years,16,833400,1.92,Belarus1994,,"14,932,024,169",1547,Millenials
+Belarus,1994,female,5-14 years,2,807600,0.25,Belarus1994,,"14,932,024,169",1547,Millenials
+Belarus,1995,male,35-54 years,1222,1274300,95.9,Belarus1995,,"13,972,676,841",1444,Boomers
+Belarus,1995,male,55-74 years,699,805300,86.8,Belarus1995,,"13,972,676,841",1444,Silent
+Belarus,1995,male,75+ years,71,101000,70.3,Belarus1995,,"13,972,676,841",1444,G.I. Generation
+Belarus,1995,male,25-34 years,475,743800,63.86,Belarus1995,,"13,972,676,841",1444,Generation X
+Belarus,1995,male,15-24 years,210,734800,28.58,Belarus1995,,"13,972,676,841",1444,Generation X
+Belarus,1995,female,55-74 years,197,1220800,16.14,Belarus1995,,"13,972,676,841",1444,Silent
+Belarus,1995,female,75+ years,49,304600,16.09,Belarus1995,,"13,972,676,841",1444,G.I. Generation
+Belarus,1995,female,35-54 years,181,1360000,13.31,Belarus1995,,"13,972,676,841",1444,Boomers
+Belarus,1995,female,25-34 years,51,762300,6.69,Belarus1995,,"13,972,676,841",1444,Generation X
+Belarus,1995,female,15-24 years,33,729900,4.52,Belarus1995,,"13,972,676,841",1444,Generation X
+Belarus,1995,male,5-14 years,12,829500,1.45,Belarus1995,,"13,972,676,841",1444,Millenials
+Belarus,1995,female,5-14 years,3,807300,0.37,Belarus1995,,"13,972,676,841",1444,Millenials
+Belarus,1996,male,35-54 years,1391,1298200,107.15,Belarus1996,,"14,756,846,154",1524,Boomers
+Belarus,1996,male,55-74 years,859,809000,106.18,Belarus1996,,"14,756,846,154",1524,Silent
+Belarus,1996,male,75+ years,76,99700,76.23,Belarus1996,,"14,756,846,154",1524,G.I. Generation
+Belarus,1996,male,25-34 years,518,722500,71.7,Belarus1996,,"14,756,846,154",1524,Generation X
+Belarus,1996,male,15-24 years,224,743800,30.12,Belarus1996,,"14,756,846,154",1524,Generation X
+Belarus,1996,female,75+ years,57,302400,18.85,Belarus1996,,"14,756,846,154",1524,G.I. Generation
+Belarus,1996,female,55-74 years,214,1226000,17.46,Belarus1996,,"14,756,846,154",1524,Silent
+Belarus,1996,female,35-54 years,170,1384800,12.28,Belarus1996,,"14,756,846,154",1524,Boomers
+Belarus,1996,female,25-34 years,59,741800,7.95,Belarus1996,,"14,756,846,154",1524,Generation X
+Belarus,1996,female,15-24 years,43,737300,5.83,Belarus1996,,"14,756,846,154",1524,Generation X
+Belarus,1996,male,5-14 years,13,821700,1.58,Belarus1996,,"14,756,846,154",1524,Millenials
+Belarus,1996,female,5-14 years,3,797600,0.38,Belarus1996,,"14,756,846,154",1524,Millenials
+Belarus,1997,male,55-74 years,819,803300,101.95,Belarus1997,,"14,128,408,566",1458,Silent
+Belarus,1997,male,35-54 years,1326,1326100,99.99,Belarus1997,,"14,128,408,566",1458,Boomers
+Belarus,1997,male,75+ years,77,100500,76.62,Belarus1997,,"14,128,408,566",1458,G.I. Generation
+Belarus,1997,male,25-34 years,487,709000,68.69,Belarus1997,,"14,128,408,566",1458,Generation X
+Belarus,1997,male,15-24 years,247,750600,32.91,Belarus1997,,"14,128,408,566",1458,Generation X
+Belarus,1997,female,75+ years,59,305000,19.34,Belarus1997,,"14,128,408,566",1458,G.I. Generation
+Belarus,1997,female,55-74 years,188,1218800,15.43,Belarus1997,,"14,128,408,566",1458,Silent
+Belarus,1997,female,35-54 years,188,1415500,13.28,Belarus1997,,"14,128,408,566",1458,Boomers
+Belarus,1997,female,25-34 years,75,726900,10.32,Belarus1997,,"14,128,408,566",1458,Generation X
+Belarus,1997,female,15-24 years,50,744100,6.72,Belarus1997,,"14,128,408,566",1458,Generation X
+Belarus,1997,male,5-14 years,8,809000,0.99,Belarus1997,,"14,128,408,566",1458,Millenials
+Belarus,1997,female,5-14 years,2,783300,0.26,Belarus1997,,"14,128,408,566",1458,Millenials
+Belarus,1998,male,55-74 years,794,784600,101.2,Belarus1998,,"15,222,012,660",1570,Silent
+Belarus,1998,male,35-54 years,1320,1360700,97.01,Belarus1998,,"15,222,012,660",1570,Boomers
+Belarus,1998,male,75+ years,82,104000,78.85,Belarus1998,,"15,222,012,660",1570,G.I. Generation
+Belarus,1998,male,25-34 years,511,698900,73.11,Belarus1998,,"15,222,012,660",1570,Generation X
+Belarus,1998,male,15-24 years,287,762700,37.63,Belarus1998,,"15,222,012,660",1570,Generation X
+Belarus,1998,female,75+ years,78,316400,24.65,Belarus1998,,"15,222,012,660",1570,G.I. Generation
+Belarus,1998,female,55-74 years,185,1191300,15.53,Belarus1998,,"15,222,012,660",1570,Silent
+Belarus,1998,female,35-54 years,192,1455000,13.2,Belarus1998,,"15,222,012,660",1570,Boomers
+Belarus,1998,female,25-34 years,51,716200,7.12,Belarus1998,,"15,222,012,660",1570,Generation X
+Belarus,1998,female,15-24 years,39,755800,5.16,Belarus1998,,"15,222,012,660",1570,Generation X
+Belarus,1998,male,5-14 years,12,787800,1.52,Belarus1998,,"15,222,012,660",1570,Millenials
+Belarus,1998,female,5-14 years,5,761400,0.66,Belarus1998,,"15,222,012,660",1570,Millenials
+Belarus,1999,male,55-74 years,739,771900,95.74,Belarus1999,,"12,138,486,532",1269,Silent
+Belarus,1999,male,75+ years,91,106400,85.53,Belarus1999,,"12,138,486,532",1269,G.I. Generation
+Belarus,1999,male,35-54 years,1178,1378000,85.49,Belarus1999,,"12,138,486,532",1269,Boomers
+Belarus,1999,male,25-34 years,550,692600,79.41,Belarus1999,,"12,138,486,532",1269,Generation X
+Belarus,1999,male,15-24 years,288,771500,37.33,Belarus1999,,"12,138,486,532",1269,Generation X
+Belarus,1999,female,75+ years,66,318400,20.73,Belarus1999,,"12,138,486,532",1269,G.I. Generation
+Belarus,1999,female,55-74 years,170,1157900,14.68,Belarus1999,,"12,138,486,532",1269,Silent
+Belarus,1999,female,35-54 years,174,1465100,11.88,Belarus1999,,"12,138,486,532",1269,Boomers
+Belarus,1999,female,25-34 years,67,697900,9.6,Belarus1999,,"12,138,486,532",1269,Generation X
+Belarus,1999,female,15-24 years,48,741400,6.47,Belarus1999,,"12,138,486,532",1269,Generation X
+Belarus,1999,male,5-14 years,22,748500,2.94,Belarus1999,,"12,138,486,532",1269,Millenials
+Belarus,1999,female,5-14 years,4,713600,0.56,Belarus1999,,"12,138,486,532",1269,Millenials
+Belarus,2000,male,55-74 years,721,750602,96.06,Belarus2000,0.683,"12,736,856,828",1335,Silent
+Belarus,2000,male,35-54 years,1334,1403903,95.02,Belarus2000,0.683,"12,736,856,828",1335,Boomers
+Belarus,2000,male,75+ years,89,110565,80.5,Belarus2000,0.683,"12,736,856,828",1335,G.I. Generation
+Belarus,2000,male,25-34 years,508,688963,73.73,Belarus2000,0.683,"12,736,856,828",1335,Generation X
+Belarus,2000,male,15-24 years,306,786483,38.91,Belarus2000,0.683,"12,736,856,828",1335,Generation X
+Belarus,2000,female,75+ years,67,331579,20.21,Belarus2000,0.683,"12,736,856,828",1335,G.I. Generation
+Belarus,2000,female,55-74 years,172,1125001,15.29,Belarus2000,0.683,"12,736,856,828",1335,Silent
+Belarus,2000,female,35-54 years,170,1497056,11.36,Belarus2000,0.683,"12,736,856,828",1335,Boomers
+Belarus,2000,female,25-34 years,54,693860,7.78,Belarus2000,0.683,"12,736,856,828",1335,Generation X
+Belarus,2000,female,15-24 years,36,754801,4.77,Belarus2000,0.683,"12,736,856,828",1335,Generation X
+Belarus,2000,male,5-14 years,20,717646,2.79,Belarus2000,0.683,"12,736,856,828",1335,Millenials
+Belarus,2000,female,5-14 years,6,683020,0.88,Belarus2000,0.683,"12,736,856,828",1335,Millenials
+Belarus,2001,male,55-74 years,658,731902,89.9,Belarus2001,,"12,354,820,144",1299,Silent
+Belarus,2001,male,35-54 years,1266,1423218,88.95,Belarus2001,,"12,354,820,144",1299,Boomers
+Belarus,2001,male,75+ years,82,116090,70.63,Belarus2001,,"12,354,820,144",1299,Silent
+Belarus,2001,male,25-34 years,477,687861,69.35,Belarus2001,,"12,354,820,144",1299,Generation X
+Belarus,2001,male,15-24 years,313,801574,39.05,Belarus2001,,"12,354,820,144",1299,Millenials
+Belarus,2001,female,75+ years,73,346664,21.06,Belarus2001,,"12,354,820,144",1299,Silent
+Belarus,2001,female,55-74 years,162,1094844,14.8,Belarus2001,,"12,354,820,144",1299,Silent
+Belarus,2001,female,35-54 years,164,1522267,10.77,Belarus2001,,"12,354,820,144",1299,Boomers
+Belarus,2001,female,25-34 years,53,691653,7.66,Belarus2001,,"12,354,820,144",1299,Generation X
+Belarus,2001,female,15-24 years,36,768639,4.68,Belarus2001,,"12,354,820,144",1299,Millenials
+Belarus,2001,male,5-14 years,17,681448,2.49,Belarus2001,,"12,354,820,144",1299,Millenials
+Belarus,2001,female,5-14 years,2,647427,0.31,Belarus2001,,"12,354,820,144",1299,Millenials
+Belarus,2002,male,35-54 years,1263,1429098,88.38,Belarus2002,,"14,594,249,023",1541,Boomers
+Belarus,2002,male,55-74 years,607,719837,84.32,Belarus2002,,"14,594,249,023",1541,Silent
+Belarus,2002,male,25-34 years,515,688769,74.77,Belarus2002,,"14,594,249,023",1541,Generation X
+Belarus,2002,male,75+ years,79,122862,64.3,Belarus2002,,"14,594,249,023",1541,Silent
+Belarus,2002,male,15-24 years,296,814826,36.33,Belarus2002,,"14,594,249,023",1541,Millenials
+Belarus,2002,female,75+ years,69,359673,19.18,Belarus2002,,"14,594,249,023",1541,Silent
+Belarus,2002,female,55-74 years,149,1076366,13.84,Belarus2002,,"14,594,249,023",1541,Silent
+Belarus,2002,female,35-54 years,191,1533648,12.45,Belarus2002,,"14,594,249,023",1541,Boomers
+Belarus,2002,female,25-34 years,65,691146,9.4,Belarus2002,,"14,594,249,023",1541,Generation X
+Belarus,2002,female,15-24 years,32,780846,4.1,Belarus2002,,"14,594,249,023",1541,Millenials
+Belarus,2002,male,5-14 years,20,642277,3.11,Belarus2002,,"14,594,249,023",1541,Millenials
+Belarus,2002,female,5-14 years,5,609886,0.82,Belarus2002,,"14,594,249,023",1541,Millenials
+Belarus,2003,male,55-74 years,669,709699,94.27,Belarus2003,,"17,827,791,321",1892,Silent
+Belarus,2003,male,35-54 years,1304,1427642,91.34,Belarus2003,,"17,827,791,321",1892,Boomers
+Belarus,2003,male,75+ years,107,131935,81.1,Belarus2003,,"17,827,791,321",1892,Silent
+Belarus,2003,male,25-34 years,540,691958,78.04,Belarus2003,,"17,827,791,321",1892,Generation X
+Belarus,2003,male,15-24 years,285,824213,34.58,Belarus2003,,"17,827,791,321",1892,Millenials
+Belarus,2003,female,75+ years,78,374617,20.82,Belarus2003,,"17,827,791,321",1892,Silent
+Belarus,2003,female,55-74 years,177,1062435,16.66,Belarus2003,,"17,827,791,321",1892,Silent
+Belarus,2003,female,35-54 years,179,1536542,11.65,Belarus2003,,"17,827,791,321",1892,Boomers
+Belarus,2003,female,25-34 years,57,692961,8.23,Belarus2003,,"17,827,791,321",1892,Generation X
+Belarus,2003,female,15-24 years,46,789030,5.83,Belarus2003,,"17,827,791,321",1892,Millenials
+Belarus,2003,male,5-14 years,11,605243,1.82,Belarus2003,,"17,827,791,321",1892,Millenials
+Belarus,2003,female,5-14 years,3,574416,0.52,Belarus2003,,"17,827,791,321",1892,Millenials
+Belarus,2007,male,75+ years,122,157647,77.39,Belarus2007,,"45,277,399,814",4898,Silent
+Belarus,2007,male,55-74 years,506,710519,71.22,Belarus2007,,"45,277,399,814",4898,Silent
+Belarus,2007,male,35-54 years,900,1399410,64.31,Belarus2007,,"45,277,399,814",4898,Boomers
+Belarus,2007,male,25-34 years,405,723119,56.01,Belarus2007,,"45,277,399,814",4898,Generation X
+Belarus,2007,male,15-24 years,261,801445,32.57,Belarus2007,,"45,277,399,814",4898,Millenials
+Belarus,2007,female,75+ years,70,424470,16.49,Belarus2007,,"45,277,399,814",4898,Silent
+Belarus,2007,female,55-74 years,127,1054993,12.04,Belarus2007,,"45,277,399,814",4898,Silent
+Belarus,2007,female,35-54 years,163,1518188,10.74,Belarus2007,,"45,277,399,814",4898,Boomers
+Belarus,2007,female,25-34 years,56,711481,7.87,Belarus2007,,"45,277,399,814",4898,Generation X
+Belarus,2007,female,15-24 years,37,768164,4.82,Belarus2007,,"45,277,399,814",4898,Millenials
+Belarus,2007,male,5-14 years,9,500931,1.8,Belarus2007,,"45,277,399,814",4898,Generation Z
+Belarus,2007,female,5-14 years,3,474089,0.63,Belarus2007,,"45,277,399,814",4898,Generation Z
+Belarus,2008,male,75+ years,131,159724,82.02,Belarus2008,,"60,763,483,146",6601,Silent
+Belarus,2008,male,35-54 years,961,1395695,68.85,Belarus2008,,"60,763,483,146",6601,Boomers
+Belarus,2008,male,55-74 years,481,716132,67.17,Belarus2008,,"60,763,483,146",6601,Silent
+Belarus,2008,male,25-34 years,375,737364,50.86,Belarus2008,,"60,763,483,146",6601,Generation X
+Belarus,2008,male,15-24 years,234,778552,30.06,Belarus2008,,"60,763,483,146",6601,Millenials
+Belarus,2008,female,75+ years,63,432516,14.57,Belarus2008,,"60,763,483,146",6601,Silent
+Belarus,2008,female,35-54 years,184,1514338,12.15,Belarus2008,,"60,763,483,146",6601,Boomers
+Belarus,2008,female,55-74 years,127,1059632,11.99,Belarus2008,,"60,763,483,146",6601,Silent
+Belarus,2008,female,25-34 years,66,723117,9.13,Belarus2008,,"60,763,483,146",6601,Generation X
+Belarus,2008,female,15-24 years,29,745464,3.89,Belarus2008,,"60,763,483,146",6601,Millenials
+Belarus,2008,male,5-14 years,5,484885,1.03,Belarus2008,,"60,763,483,146",6601,Generation Z
+Belarus,2008,female,5-14 years,2,458327,0.44,Belarus2008,,"60,763,483,146",6601,Generation Z
+Belarus,2009,male,75+ years,145,159050,91.17,Belarus2009,,"49,209,523,810",5366,Silent
+Belarus,2009,male,35-54 years,903,1390214,64.95,Belarus2009,,"49,209,523,810",5366,Boomers
+Belarus,2009,male,55-74 years,466,726459,64.15,Belarus2009,,"49,209,523,810",5366,Silent
+Belarus,2009,male,25-34 years,445,754796,58.96,Belarus2009,,"49,209,523,810",5366,Generation X
+Belarus,2009,male,15-24 years,270,749519,36.02,Belarus2009,,"49,209,523,810",5366,Millenials
+Belarus,2009,female,75+ years,74,434130,17.05,Belarus2009,,"49,209,523,810",5366,Silent
+Belarus,2009,female,55-74 years,144,1073032,13.42,Belarus2009,,"49,209,523,810",5366,Silent
+Belarus,2009,female,35-54 years,165,1507662,10.94,Belarus2009,,"49,209,523,810",5366,Boomers
+Belarus,2009,female,25-34 years,74,737605,10.03,Belarus2009,,"49,209,523,810",5366,Generation X
+Belarus,2009,female,15-24 years,45,716695,6.28,Belarus2009,,"49,209,523,810",5366,Millenials
+Belarus,2009,male,5-14 years,9,473483,1.9,Belarus2009,,"49,209,523,810",5366,Generation Z
+Belarus,2009,female,5-14 years,3,447324,0.67,Belarus2009,,"49,209,523,810",5366,Generation Z
+Belarus,2010,male,75+ years,115,158977,72.34,Belarus2010,0.786,"57,222,490,769",6371,Silent
+Belarus,2010,male,35-54 years,869,1353782,64.19,Belarus2010,0.786,"57,222,490,769",6371,Generation X
+Belarus,2010,male,55-74 years,458,744533,61.52,Belarus2010,0.786,"57,222,490,769",6371,Silent
+Belarus,2010,male,25-34 years,382,723856,52.77,Belarus2010,0.786,"57,222,490,769",6371,Generation X
+Belarus,2010,male,15-24 years,240,707657,33.91,Belarus2010,0.786,"57,222,490,769",6371,Millenials
+Belarus,2010,female,75+ years,62,432426,14.34,Belarus2010,0.786,"57,222,490,769",6371,Silent
+Belarus,2010,female,35-54 years,145,1483086,9.78,Belarus2010,0.786,"57,222,490,769",6371,Generation X
+Belarus,2010,female,25-34 years,60,715558,8.39,Belarus2010,0.786,"57,222,490,769",6371,Generation X
+Belarus,2010,female,55-74 years,83,1092687,7.6,Belarus2010,0.786,"57,222,490,769",6371,Silent
+Belarus,2010,female,15-24 years,39,668827,5.83,Belarus2010,0.786,"57,222,490,769",6371,Millenials
+Belarus,2010,male,5-14 years,5,462298,1.08,Belarus2010,0.786,"57,222,490,769",6371,Generation Z
+Belarus,2010,female,5-14 years,1,437506,0.23,Belarus2010,0.786,"57,222,490,769",6371,Generation Z
+Belarus,2011,male,75+ years,112,161762,69.24,Belarus2011,0.793,"61,757,788,945",6902,Silent
+Belarus,2011,male,55-74 years,415,755610,54.92,Belarus2011,0.793,"61,757,788,945",6902,Boomers
+Belarus,2011,male,35-54 years,730,1342175,54.39,Belarus2011,0.793,"61,757,788,945",6902,Generation X
+Belarus,2011,male,25-34 years,340,736247,46.18,Belarus2011,0.793,"61,757,788,945",6902,Millenials
+Belarus,2011,male,15-24 years,185,676797,27.33,Belarus2011,0.793,"61,757,788,945",6902,Millenials
+Belarus,2011,female,75+ years,69,441193,15.64,Belarus2011,0.793,"61,757,788,945",6902,Silent
+Belarus,2011,female,35-54 years,141,1470135,9.59,Belarus2011,0.793,"61,757,788,945",6902,Generation X
+Belarus,2011,female,55-74 years,91,1104192,8.24,Belarus2011,0.793,"61,757,788,945",6902,Boomers
+Belarus,2011,female,25-34 years,42,724263,5.8,Belarus2011,0.793,"61,757,788,945",6902,Millenials
+Belarus,2011,female,15-24 years,36,639397,5.63,Belarus2011,0.793,"61,757,788,945",6902,Millenials
+Belarus,2011,male,5-14 years,10,459834,2.17,Belarus2011,0.793,"61,757,788,945",6902,Generation Z
+Belarus,2011,female,5-14 years,1,435715,0.23,Belarus2011,0.793,"61,757,788,945",6902,Generation Z
+Belarus,2013,male,75+ years,125,169369,73.8,Belarus2013,0.796,"75,527,984,234",8477,Silent
+Belarus,2013,male,55-74 years,376,786132,47.83,Belarus2013,0.796,"75,527,984,234",8477,Boomers
+Belarus,2013,male,35-54 years,609,1316641,46.25,Belarus2013,0.796,"75,527,984,234",8477,Generation X
+Belarus,2013,male,25-34 years,308,759582,40.55,Belarus2013,0.796,"75,527,984,234",8477,Millenials
+Belarus,2013,male,15-24 years,145,609560,23.79,Belarus2013,0.796,"75,527,984,234",8477,Millenials
+Belarus,2013,female,75+ years,65,464748,13.99,Belarus2013,0.796,"75,527,984,234",8477,Silent
+Belarus,2013,female,35-54 years,111,1438609,7.72,Belarus2013,0.796,"75,527,984,234",8477,Generation X
+Belarus,2013,female,55-74 years,87,1130796,7.69,Belarus2013,0.796,"75,527,984,234",8477,Boomers
+Belarus,2013,female,25-34 years,45,739769,6.08,Belarus2013,0.796,"75,527,984,234",8477,Millenials
+Belarus,2013,female,15-24 years,25,576270,4.34,Belarus2013,0.796,"75,527,984,234",8477,Millenials
+Belarus,2013,male,5-14 years,5,471922,1.06,Belarus2013,0.796,"75,527,984,234",8477,Generation Z
+Belarus,2013,female,5-14 years,1,446842,0.22,Belarus2013,0.796,"75,527,984,234",8477,Generation Z
+Belarus,2014,male,75+ years,125,172445,72.49,Belarus2014,0.798,"78,813,839,984",8849,Silent
+Belarus,2014,male,35-54 years,572,1305009,43.83,Belarus2014,0.798,"78,813,839,984",8849,Generation X
+Belarus,2014,male,55-74 years,341,807337,42.24,Belarus2014,0.798,"78,813,839,984",8849,Boomers
+Belarus,2014,male,25-34 years,297,768569,38.64,Belarus2014,0.798,"78,813,839,984",8849,Millenials
+Belarus,2014,male,15-24 years,128,578690,22.12,Belarus2014,0.798,"78,813,839,984",8849,Millenials
+Belarus,2014,female,75+ years,53,475110,11.16,Belarus2014,0.798,"78,813,839,984",8849,Silent
+Belarus,2014,female,35-54 years,93,1421531,6.54,Belarus2014,0.798,"78,813,839,984",8849,Generation X
+Belarus,2014,female,55-74 years,68,1149649,5.91,Belarus2014,0.798,"78,813,839,984",8849,Boomers
+Belarus,2014,female,25-34 years,41,745490,5.5,Belarus2014,0.798,"78,813,839,984",8849,Millenials
+Belarus,2014,female,15-24 years,15,546952,2.74,Belarus2014,0.798,"78,813,839,984",8849,Millenials
+Belarus,2014,female,5-14 years,6,455300,1.32,Belarus2014,0.798,"78,813,839,984",8849,Generation Z
+Belarus,2014,male,5-14 years,2,480895,0.42,Belarus2014,0.798,"78,813,839,984",8849,Generation Z
+Kazakhstan,1990,male,75+ years,82,102200,80.23,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+Kazakhstan,1990,male,35-54 years,925,1735100,53.31,Kazakhstan1990,0.69,"26,932,728,899",1823,Silent
+Kazakhstan,1990,male,55-74 years,356,706400,50.4,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+Kazakhstan,1990,male,25-34 years,602,1455200,41.37,Kazakhstan1990,0.69,"26,932,728,899",1823,Boomers
+Kazakhstan,1990,female,75+ years,85,291100,29.2,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+Kazakhstan,1990,male,15-24 years,375,1425100,26.31,Kazakhstan1990,0.69,"26,932,728,899",1823,Generation X
+Kazakhstan,1990,female,55-74 years,188,1060900,17.72,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+Kazakhstan,1990,female,15-24 years,170,1338900,12.7,Kazakhstan1990,0.69,"26,932,728,899",1823,Generation X
+Kazakhstan,1990,female,35-54 years,225,1845400,12.19,Kazakhstan1990,0.69,"26,932,728,899",1823,Silent
+Kazakhstan,1990,female,25-34 years,104,1453700,7.15,Kazakhstan1990,0.69,"26,932,728,899",1823,Boomers
+Kazakhstan,1990,male,5-14 years,53,1698000,3.12,Kazakhstan1990,0.69,"26,932,728,899",1823,Generation X
+Kazakhstan,1990,female,5-14 years,7,1661900,0.42,Kazakhstan1990,0.69,"26,932,728,899",1823,Generation X
+Kazakhstan,1991,male,75+ years,74,101600,72.83,Kazakhstan1991,,"24,881,135,586",1664,G.I. Generation
+Kazakhstan,1991,male,35-54 years,866,1769600,48.94,Kazakhstan1991,,"24,881,135,586",1664,Boomers
+Kazakhstan,1991,male,55-74 years,354,741600,47.73,Kazakhstan1991,,"24,881,135,586",1664,Silent
+Kazakhstan,1991,male,25-34 years,621,1441200,43.09,Kazakhstan1991,,"24,881,135,586",1664,Boomers
+Kazakhstan,1991,female,75+ years,91,294600,30.89,Kazakhstan1991,,"24,881,135,586",1664,G.I. Generation
+Kazakhstan,1991,male,15-24 years,405,1438500,28.15,Kazakhstan1991,,"24,881,135,586",1664,Generation X
+Kazakhstan,1991,female,55-74 years,166,1093000,15.19,Kazakhstan1991,,"24,881,135,586",1664,Silent
+Kazakhstan,1991,female,15-24 years,139,1351900,10.28,Kazakhstan1991,,"24,881,135,586",1664,Generation X
+Kazakhstan,1991,female,35-54 years,185,1877800,9.85,Kazakhstan1991,,"24,881,135,586",1664,Boomers
+Kazakhstan,1991,female,25-34 years,104,1438900,7.23,Kazakhstan1991,,"24,881,135,586",1664,Boomers
+Kazakhstan,1991,male,5-14 years,66,1721900,3.83,Kazakhstan1991,,"24,881,135,586",1664,Millenials
+Kazakhstan,1991,female,5-14 years,11,1682200,0.65,Kazakhstan1991,,"24,881,135,586",1664,Millenials
+Kazakhstan,1992,male,75+ years,64,101800,62.87,Kazakhstan1992,,"24,906,939,560",1644,G.I. Generation
+Kazakhstan,1992,male,35-54 years,925,1794700,51.54,Kazakhstan1992,,"24,906,939,560",1644,Boomers
+Kazakhstan,1992,male,55-74 years,390,785400,49.66,Kazakhstan1992,,"24,906,939,560",1644,Silent
+Kazakhstan,1992,male,25-34 years,676,1421100,47.57,Kazakhstan1992,,"24,906,939,560",1644,Boomers
+Kazakhstan,1992,male,15-24 years,453,1459100,31.05,Kazakhstan1992,,"24,906,939,560",1644,Generation X
+Kazakhstan,1992,female,75+ years,84,298600,28.13,Kazakhstan1992,,"24,906,939,560",1644,G.I. Generation
+Kazakhstan,1992,female,55-74 years,194,1132100,17.14,Kazakhstan1992,,"24,906,939,560",1644,Silent
+Kazakhstan,1992,female,35-54 years,217,1900200,11.42,Kazakhstan1992,,"24,906,939,560",1644,Boomers
+Kazakhstan,1992,female,15-24 years,144,1385000,10.4,Kazakhstan1992,,"24,906,939,560",1644,Generation X
+Kazakhstan,1992,female,25-34 years,132,1414300,9.33,Kazakhstan1992,,"24,906,939,560",1644,Boomers
+Kazakhstan,1992,male,5-14 years,63,1751600,3.6,Kazakhstan1992,,"24,906,939,560",1644,Millenials
+Kazakhstan,1992,female,5-14 years,14,1706200,0.82,Kazakhstan1992,,"24,906,939,560",1644,Millenials
+Kazakhstan,1993,male,75+ years,77,103700,74.25,Kazakhstan1993,,"23,409,027,476",1527,G.I. Generation
+Kazakhstan,1993,male,55-74 years,545,830100,65.65,Kazakhstan1993,,"23,409,027,476",1527,Silent
+Kazakhstan,1993,male,35-54 years,1146,1825900,62.76,Kazakhstan1993,,"23,409,027,476",1527,Boomers
+Kazakhstan,1993,male,25-34 years,772,1395600,55.32,Kazakhstan1993,,"23,409,027,476",1527,Boomers
+Kazakhstan,1993,male,15-24 years,574,1474700,38.92,Kazakhstan1993,,"23,409,027,476",1527,Generation X
+Kazakhstan,1993,female,75+ years,69,308200,22.39,Kazakhstan1993,,"23,409,027,476",1527,G.I. Generation
+Kazakhstan,1993,female,55-74 years,229,1173100,19.52,Kazakhstan1993,,"23,409,027,476",1527,Silent
+Kazakhstan,1993,female,15-24 years,173,1407100,12.29,Kazakhstan1993,,"23,409,027,476",1527,Generation X
+Kazakhstan,1993,female,35-54 years,219,1929300,11.35,Kazakhstan1993,,"23,409,027,476",1527,Boomers
+Kazakhstan,1993,female,25-34 years,119,1383000,8.6,Kazakhstan1993,,"23,409,027,476",1527,Boomers
+Kazakhstan,1993,male,5-14 years,76,1774700,4.28,Kazakhstan1993,,"23,409,027,476",1527,Millenials
+Kazakhstan,1993,female,5-14 years,20,1726000,1.16,Kazakhstan1993,,"23,409,027,476",1527,Millenials
+Kazakhstan,1994,male,75+ years,94,90300,104.1,Kazakhstan1994,,"21,250,839,258",1395,G.I. Generation
+Kazakhstan,1994,male,55-74 years,599,853800,70.16,Kazakhstan1994,,"21,250,839,258",1395,Silent
+Kazakhstan,1994,male,35-54 years,1246,1861800,66.92,Kazakhstan1994,,"21,250,839,258",1395,Boomers
+Kazakhstan,1994,male,25-34 years,735,1342400,54.75,Kazakhstan1994,,"21,250,839,258",1395,Boomers
+Kazakhstan,1994,male,15-24 years,520,1442200,36.06,Kazakhstan1994,,"21,250,839,258",1395,Generation X
+Kazakhstan,1994,female,75+ years,91,288000,31.6,Kazakhstan1994,,"21,250,839,258",1395,G.I. Generation
+Kazakhstan,1994,female,55-74 years,198,1201100,16.48,Kazakhstan1994,,"21,250,839,258",1395,Silent
+Kazakhstan,1994,female,15-24 years,149,1332400,11.18,Kazakhstan1994,,"21,250,839,258",1395,Generation X
+Kazakhstan,1994,female,35-54 years,198,1965300,10.07,Kazakhstan1994,,"21,250,839,258",1395,Boomers
+Kazakhstan,1994,female,25-34 years,128,1327200,9.64,Kazakhstan1994,,"21,250,839,258",1395,Boomers
+Kazakhstan,1994,male,5-14 years,50,1784600,2.8,Kazakhstan1994,,"21,250,839,258",1395,Millenials
+Kazakhstan,1994,female,5-14 years,16,1740500,0.92,Kazakhstan1994,,"21,250,839,258",1395,Millenials
+Kazakhstan,1995,male,75+ years,76,86400,87.96,Kazakhstan1995,0.664,"20,374,307,047",1359,G.I. Generation
+Kazakhstan,1995,male,55-74 years,737,859800,85.72,Kazakhstan1995,0.664,"20,374,307,047",1359,Silent
+Kazakhstan,1995,male,35-54 years,1523,1791600,85.01,Kazakhstan1995,0.664,"20,374,307,047",1359,Boomers
+Kazakhstan,1995,male,25-34 years,887,1311800,67.62,Kazakhstan1995,0.664,"20,374,307,047",1359,Generation X
+Kazakhstan,1995,male,15-24 years,622,1455600,42.73,Kazakhstan1995,0.664,"20,374,307,047",1359,Generation X
+Kazakhstan,1995,female,75+ years,86,267600,32.14,Kazakhstan1995,0.664,"20,374,307,047",1359,G.I. Generation
+Kazakhstan,1995,female,55-74 years,208,1205800,17.25,Kazakhstan1995,0.664,"20,374,307,047",1359,Silent
+Kazakhstan,1995,female,35-54 years,216,1901900,11.36,Kazakhstan1995,0.664,"20,374,307,047",1359,Boomers
+Kazakhstan,1995,female,15-24 years,145,1412600,10.26,Kazakhstan1995,0.664,"20,374,307,047",1359,Generation X
+Kazakhstan,1995,female,25-34 years,130,1271500,10.22,Kazakhstan1995,0.664,"20,374,307,047",1359,Generation X
+Kazakhstan,1995,male,5-14 years,61,1736100,3.51,Kazakhstan1995,0.664,"20,374,307,047",1359,Millenials
+Kazakhstan,1995,female,5-14 years,15,1688900,0.89,Kazakhstan1995,0.664,"20,374,307,047",1359,Millenials
+Kazakhstan,1996,male,35-54 years,1630,1753600,92.95,Kazakhstan1996,,"21,035,357,833",1452,Boomers
+Kazakhstan,1996,male,55-74 years,731,836900,87.35,Kazakhstan1996,,"21,035,357,833",1452,Silent
+Kazakhstan,1996,male,75+ years,64,80400,79.6,Kazakhstan1996,,"21,035,357,833",1452,G.I. Generation
+Kazakhstan,1996,male,25-34 years,879,1243300,70.7,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+Kazakhstan,1996,male,15-24 years,635,1405800,45.17,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+Kazakhstan,1996,female,75+ years,54,251800,21.45,Kazakhstan1996,,"21,035,357,833",1452,G.I. Generation
+Kazakhstan,1996,female,55-74 years,211,1173100,17.99,Kazakhstan1996,,"21,035,357,833",1452,Silent
+Kazakhstan,1996,female,35-54 years,223,1858300,12.0,Kazakhstan1996,,"21,035,357,833",1452,Boomers
+Kazakhstan,1996,female,15-24 years,158,1381300,11.44,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+Kazakhstan,1996,female,25-34 years,121,1187600,10.19,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+Kazakhstan,1996,male,5-14 years,57,1682200,3.39,Kazakhstan1996,,"21,035,357,833",1452,Millenials
+Kazakhstan,1996,female,5-14 years,10,1633400,0.61,Kazakhstan1996,,"21,035,357,833",1452,Millenials
+Kazakhstan,1997,male,55-74 years,740,822400,89.98,Kazakhstan1997,,"22,165,932,063",1540,Silent
+Kazakhstan,1997,male,35-54 years,1577,1766200,89.29,Kazakhstan1997,,"22,165,932,063",1540,Boomers
+Kazakhstan,1997,male,25-34 years,810,1217700,66.52,Kazakhstan1997,,"22,165,932,063",1540,Generation X
+Kazakhstan,1997,male,75+ years,50,78400,63.78,Kazakhstan1997,,"22,165,932,063",1540,G.I. Generation
+Kazakhstan,1997,male,15-24 years,651,1401300,46.46,Kazakhstan1997,,"22,165,932,063",1540,Generation X
+Kazakhstan,1997,female,75+ years,59,247700,23.82,Kazakhstan1997,,"22,165,932,063",1540,G.I. Generation
+Kazakhstan,1997,female,55-74 years,164,1153000,14.22,Kazakhstan1997,,"22,165,932,063",1540,Silent
+Kazakhstan,1997,female,15-24 years,175,1388400,12.6,Kazakhstan1997,,"22,165,932,063",1540,Generation X
+Kazakhstan,1997,female,35-54 years,216,1871000,11.54,Kazakhstan1997,,"22,165,932,063",1540,Boomers
+Kazakhstan,1997,female,25-34 years,131,1152200,11.37,Kazakhstan1997,,"22,165,932,063",1540,Generation X
+Kazakhstan,1997,male,5-14 years,53,1673300,3.17,Kazakhstan1997,,"22,165,932,063",1540,Millenials
+Kazakhstan,1997,female,5-14 years,16,1623000,0.99,Kazakhstan1997,,"22,165,932,063",1540,Millenials
+Kazakhstan,1998,male,55-74 years,692,762500,90.75,Kazakhstan1998,,"22,135,245,413",1599,Silent
+Kazakhstan,1998,male,35-54 years,1459,1724400,84.61,Kazakhstan1998,,"22,135,245,413",1599,Boomers
+Kazakhstan,1998,male,75+ years,58,74500,77.85,Kazakhstan1998,,"22,135,245,413",1599,G.I. Generation
+Kazakhstan,1998,male,25-34 years,727,1145900,63.44,Kazakhstan1998,,"22,135,245,413",1599,Generation X
+Kazakhstan,1998,male,15-24 years,594,1343300,44.22,Kazakhstan1998,,"22,135,245,413",1599,Generation X
+Kazakhstan,1998,female,75+ years,63,241200,26.12,Kazakhstan1998,,"22,135,245,413",1599,G.I. Generation
+Kazakhstan,1998,female,55-74 years,160,1090300,14.67,Kazakhstan1998,,"22,135,245,413",1599,Silent
+Kazakhstan,1998,female,25-34 years,138,1103400,12.51,Kazakhstan1998,,"22,135,245,413",1599,Generation X
+Kazakhstan,1998,female,15-24 years,152,1353400,11.23,Kazakhstan1998,,"22,135,245,413",1599,Generation X
+Kazakhstan,1998,female,35-54 years,205,1863700,11.0,Kazakhstan1998,,"22,135,245,413",1599,Boomers
+Kazakhstan,1998,male,5-14 years,54,1585500,3.41,Kazakhstan1998,,"22,135,245,413",1599,Millenials
+Kazakhstan,1998,female,5-14 years,11,1556100,0.71,Kazakhstan1998,,"22,135,245,413",1599,Millenials
+Kazakhstan,1999,male,55-74 years,567,727800,77.91,Kazakhstan1999,,"16,870,817,135",1225,Silent
+Kazakhstan,1999,male,35-54 years,1331,1761800,75.55,Kazakhstan1999,,"16,870,817,135",1225,Boomers
+Kazakhstan,1999,male,75+ years,55,75400,72.94,Kazakhstan1999,,"16,870,817,135",1225,G.I. Generation
+Kazakhstan,1999,male,25-34 years,717,1131600,63.36,Kazakhstan1999,,"16,870,817,135",1225,Generation X
+Kazakhstan,1999,male,15-24 years,609,1349400,45.13,Kazakhstan1999,,"16,870,817,135",1225,Generation X
+Kazakhstan,1999,female,75+ years,59,246200,23.96,Kazakhstan1999,,"16,870,817,135",1225,G.I. Generation
+Kazakhstan,1999,female,55-74 years,152,1044200,14.56,Kazakhstan1999,,"16,870,817,135",1225,Silent
+Kazakhstan,1999,female,25-34 years,120,1089900,11.01,Kazakhstan1999,,"16,870,817,135",1225,Generation X
+Kazakhstan,1999,female,35-54 years,198,1909900,10.37,Kazakhstan1999,,"16,870,817,135",1225,Boomers
+Kazakhstan,1999,female,15-24 years,124,1358700,9.13,Kazakhstan1999,,"16,870,817,135",1225,Generation X
+Kazakhstan,1999,male,5-14 years,49,1555400,3.15,Kazakhstan1999,,"16,870,817,135",1225,Millenials
+Kazakhstan,1999,female,5-14 years,10,1523100,0.66,Kazakhstan1999,,"16,870,817,135",1225,Millenials
+Kazakhstan,2000,male,35-54 years,1527,1802430,84.72,Kazakhstan2000,0.679,"18,291,990,619",1328,Boomers
+Kazakhstan,2000,male,55-74 years,586,698665,83.87,Kazakhstan2000,0.679,"18,291,990,619",1328,Silent
+Kazakhstan,2000,male,25-34 years,852,1132418,75.24,Kazakhstan2000,0.679,"18,291,990,619",1328,Generation X
+Kazakhstan,2000,male,75+ years,47,77972,60.28,Kazakhstan2000,0.679,"18,291,990,619",1328,G.I. Generation
+Kazakhstan,2000,male,15-24 years,623,1366874,45.58,Kazakhstan2000,0.679,"18,291,990,619",1328,Generation X
+Kazakhstan,2000,female,75+ years,56,254407,22.01,Kazakhstan2000,0.679,"18,291,990,619",1328,G.I. Generation
+Kazakhstan,2000,female,55-74 years,147,1005027,14.63,Kazakhstan2000,0.679,"18,291,990,619",1328,Silent
+Kazakhstan,2000,female,15-24 years,169,1375343,12.29,Kazakhstan2000,0.679,"18,291,990,619",1328,Generation X
+Kazakhstan,2000,female,35-54 years,234,1959602,11.94,Kazakhstan2000,0.679,"18,291,990,619",1328,Boomers
+Kazakhstan,2000,female,25-34 years,122,1089854,11.19,Kazakhstan2000,0.679,"18,291,990,619",1328,Generation X
+Kazakhstan,2000,male,5-14 years,47,1523202,3.09,Kazakhstan2000,0.679,"18,291,990,619",1328,Millenials
+Kazakhstan,2000,female,5-14 years,18,1486628,1.21,Kazakhstan2000,0.679,"18,291,990,619",1328,Millenials
+Kazakhstan,2001,male,35-54 years,1519,1807120,84.06,Kazakhstan2001,,"22,152,694,162",1608,Boomers
+Kazakhstan,2001,male,55-74 years,582,718503,81.0,Kazakhstan2001,,"22,152,694,162",1608,Silent
+Kazakhstan,2001,male,25-34 years,843,1117605,75.43,Kazakhstan2001,,"22,152,694,162",1608,Generation X
+Kazakhstan,2001,male,75+ years,51,82044,62.16,Kazakhstan2001,,"22,152,694,162",1608,Silent
+Kazakhstan,2001,male,15-24 years,660,1365580,48.33,Kazakhstan2001,,"22,152,694,162",1608,Millenials
+Kazakhstan,2001,female,75+ years,53,233378,22.71,Kazakhstan2001,,"22,152,694,162",1608,Silent
+Kazakhstan,2001,female,15-24 years,158,1336586,11.82,Kazakhstan2001,,"22,152,694,162",1608,Millenials
+Kazakhstan,2001,female,55-74 years,119,1011423,11.77,Kazakhstan2001,,"22,152,694,162",1608,Silent
+Kazakhstan,2001,female,35-54 years,197,1998447,9.86,Kazakhstan2001,,"22,152,694,162",1608,Boomers
+Kazakhstan,2001,female,25-34 years,110,1137636,9.67,Kazakhstan2001,,"22,152,694,162",1608,Generation X
+Kazakhstan,2001,male,5-14 years,64,1508752,4.24,Kazakhstan2001,,"22,152,694,162",1608,Millenials
+Kazakhstan,2001,female,5-14 years,21,1455622,1.44,Kazakhstan2001,,"22,152,694,162",1608,Millenials
+Kazakhstan,2002,male,55-74 years,582,704901,82.56,Kazakhstan2002,,"24,636,593,223",1788,Silent
+Kazakhstan,2002,male,35-54 years,1414,1837817,76.94,Kazakhstan2002,,"24,636,593,223",1788,Boomers
+Kazakhstan,2002,male,25-34 years,825,1128226,73.12,Kazakhstan2002,,"24,636,593,223",1788,Generation X
+Kazakhstan,2002,male,75+ years,53,91887,57.68,Kazakhstan2002,,"24,636,593,223",1788,Silent
+Kazakhstan,2002,male,15-24 years,621,1414530,43.9,Kazakhstan2002,,"24,636,593,223",1788,Millenials
+Kazakhstan,2002,female,75+ years,52,247685,20.99,Kazakhstan2002,,"24,636,593,223",1788,Silent
+Kazakhstan,2002,female,55-74 years,119,996301,11.94,Kazakhstan2002,,"24,636,593,223",1788,Silent
+Kazakhstan,2002,female,15-24 years,160,1377461,11.62,Kazakhstan2002,,"24,636,593,223",1788,Millenials
+Kazakhstan,2002,female,25-34 years,129,1147717,11.24,Kazakhstan2002,,"24,636,593,223",1788,Generation X
+Kazakhstan,2002,female,35-54 years,198,2033504,9.74,Kazakhstan2002,,"24,636,593,223",1788,Boomers
+Kazakhstan,2002,male,5-14 years,67,1424722,4.7,Kazakhstan2002,,"24,636,593,223",1788,Millenials
+Kazakhstan,2002,female,5-14 years,20,1372725,1.46,Kazakhstan2002,,"24,636,593,223",1788,Millenials
+Kazakhstan,2003,male,25-34 years,938,1141761,82.15,Kazakhstan2003,,"30,833,699,703",2232,Generation X
+Kazakhstan,2003,male,55-74 years,530,702817,75.41,Kazakhstan2003,,"30,833,699,703",2232,Silent
+Kazakhstan,2003,male,35-54 years,1386,1855662,74.69,Kazakhstan2003,,"30,833,699,703",2232,Boomers
+Kazakhstan,2003,male,75+ years,60,99171,60.5,Kazakhstan2003,,"30,833,699,703",2232,Silent
+Kazakhstan,2003,male,15-24 years,652,1449082,44.99,Kazakhstan2003,,"30,833,699,703",2232,Millenials
+Kazakhstan,2003,female,75+ years,60,259838,23.09,Kazakhstan2003,,"30,833,699,703",2232,Silent
+Kazakhstan,2003,female,55-74 years,139,996433,13.95,Kazakhstan2003,,"30,833,699,703",2232,Silent
+Kazakhstan,2003,female,15-24 years,157,1408946,11.14,Kazakhstan2003,,"30,833,699,703",2232,Millenials
+Kazakhstan,2003,female,35-54 years,202,2053544,9.84,Kazakhstan2003,,"30,833,699,703",2232,Boomers
+Kazakhstan,2003,female,25-34 years,114,1159693,9.83,Kazakhstan2003,,"30,833,699,703",2232,Generation X
+Kazakhstan,2003,male,5-14 years,67,1368679,4.9,Kazakhstan2003,,"30,833,699,703",2232,Millenials
+Kazakhstan,2003,female,5-14 years,16,1316237,1.22,Kazakhstan2003,,"30,833,699,703",2232,Millenials
+Kazakhstan,2004,male,25-34 years,967,1159137,83.42,Kazakhstan2004,,"43,151,647,003",3110,Generation X
+Kazakhstan,2004,male,35-54 years,1427,1874980,76.11,Kazakhstan2004,,"43,151,647,003",3110,Boomers
+Kazakhstan,2004,male,75+ years,75,105970,70.77,Kazakhstan2004,,"43,151,647,003",3110,Silent
+Kazakhstan,2004,male,55-74 years,441,706313,62.44,Kazakhstan2004,,"43,151,647,003",3110,Silent
+Kazakhstan,2004,male,15-24 years,735,1480125,49.66,Kazakhstan2004,,"43,151,647,003",3110,Millenials
+Kazakhstan,2004,female,75+ years,61,271208,22.49,Kazakhstan2004,,"43,151,647,003",3110,Silent
+Kazakhstan,2004,female,15-24 years,177,1438621,12.3,Kazakhstan2004,,"43,151,647,003",3110,Millenials
+Kazakhstan,2004,female,25-34 years,131,1174778,11.15,Kazakhstan2004,,"43,151,647,003",3110,Generation X
+Kazakhstan,2004,female,55-74 years,101,1004413,10.06,Kazakhstan2004,,"43,151,647,003",3110,Silent
+Kazakhstan,2004,female,35-54 years,208,2076222,10.02,Kazakhstan2004,,"43,151,647,003",3110,Boomers
+Kazakhstan,2004,male,5-14 years,57,1317575,4.33,Kazakhstan2004,,"43,151,647,003",3110,Millenials
+Kazakhstan,2004,female,5-14 years,14,1263986,1.11,Kazakhstan2004,,"43,151,647,003",3110,Millenials
+Kazakhstan,2005,male,25-34 years,868,1174447,73.91,Kazakhstan2005,0.746,"57,123,671,734",4096,Generation X
+Kazakhstan,2005,male,35-54 years,1225,1893623,64.69,Kazakhstan2005,0.746,"57,123,671,734",4096,Boomers
+Kazakhstan,2005,male,55-74 years,402,716191,56.13,Kazakhstan2005,0.746,"57,123,671,734",4096,Silent
+Kazakhstan,2005,male,75+ years,61,112427,54.26,Kazakhstan2005,0.746,"57,123,671,734",4096,Silent
+Kazakhstan,2005,male,15-24 years,635,1507234,42.13,Kazakhstan2005,0.746,"57,123,671,734",4096,Millenials
+Kazakhstan,2005,female,75+ years,54,279776,19.3,Kazakhstan2005,0.746,"57,123,671,734",4096,Silent
+Kazakhstan,2005,female,25-34 years,126,1188857,10.6,Kazakhstan2005,0.746,"57,123,671,734",4096,Generation X
+Kazakhstan,2005,female,15-24 years,153,1464554,10.45,Kazakhstan2005,0.746,"57,123,671,734",4096,Millenials
+Kazakhstan,2005,female,55-74 years,100,1021709,9.79,Kazakhstan2005,0.746,"57,123,671,734",4096,Silent
+Kazakhstan,2005,female,35-54 years,177,2097655,8.44,Kazakhstan2005,0.746,"57,123,671,734",4096,Boomers
+Kazakhstan,2005,male,5-14 years,78,1272278,6.13,Kazakhstan2005,0.746,"57,123,671,734",4096,Millenials
+Kazakhstan,2005,female,5-14 years,24,1219019,1.97,Kazakhstan2005,0.746,"57,123,671,734",4096,Millenials
+Kazakhstan,2006,male,25-34 years,944,1189058,79.39,Kazakhstan2006,,"81,003,884,545",5770,Generation X
+Kazakhstan,2006,male,35-54 years,1225,1915309,63.96,Kazakhstan2006,,"81,003,884,545",5770,Boomers
+Kazakhstan,2006,male,75+ years,71,116133,61.14,Kazakhstan2006,,"81,003,884,545",5770,Silent
+Kazakhstan,2006,male,55-74 years,436,730464,59.69,Kazakhstan2006,,"81,003,884,545",5770,Silent
+Kazakhstan,2006,male,15-24 years,657,1530192,42.94,Kazakhstan2006,,"81,003,884,545",5770,Millenials
+Kazakhstan,2006,female,75+ years,53,282507,18.76,Kazakhstan2006,,"81,003,884,545",5770,Silent
+Kazakhstan,2006,female,15-24 years,181,1486771,12.17,Kazakhstan2006,,"81,003,884,545",5770,Millenials
+Kazakhstan,2006,female,55-74 years,106,1047352,10.12,Kazakhstan2006,,"81,003,884,545",5770,Silent
+Kazakhstan,2006,female,25-34 years,121,1202659,10.06,Kazakhstan2006,,"81,003,884,545",5770,Generation X
+Kazakhstan,2006,female,35-54 years,190,2121510,8.96,Kazakhstan2006,,"81,003,884,545",5770,Boomers
+Kazakhstan,2006,male,5-14 years,68,1234397,5.51,Kazakhstan2006,,"81,003,884,545",5770,Millenials
+Kazakhstan,2006,female,5-14 years,24,1181324,2.03,Kazakhstan2006,,"81,003,884,545",5770,Millenials
+Kazakhstan,2007,male,25-34 years,919,1208359,76.05,Kazakhstan2007,,"104,849,886,826",7423,Generation X
+Kazakhstan,2007,male,75+ years,77,116899,65.87,Kazakhstan2007,,"104,849,886,826",7423,Silent
+Kazakhstan,2007,male,35-54 years,1275,1935835,65.86,Kazakhstan2007,,"104,849,886,826",7423,Boomers
+Kazakhstan,2007,male,55-74 years,412,747545,55.11,Kazakhstan2007,,"104,849,886,826",7423,Silent
+Kazakhstan,2007,male,15-24 years,648,1542361,42.01,Kazakhstan2007,,"104,849,886,826",7423,Millenials
+Kazakhstan,2007,female,75+ years,50,281627,17.75,Kazakhstan2007,,"104,849,886,826",7423,Silent
+Kazakhstan,2007,female,15-24 years,203,1498711,13.54,Kazakhstan2007,,"104,849,886,826",7423,Millenials
+Kazakhstan,2007,female,25-34 years,140,1219565,11.48,Kazakhstan2007,,"104,849,886,826",7423,Generation X
+Kazakhstan,2007,female,35-54 years,210,2144647,9.79,Kazakhstan2007,,"104,849,886,826",7423,Boomers
+Kazakhstan,2007,female,55-74 years,88,1077829,8.16,Kazakhstan2007,,"104,849,886,826",7423,Silent
+Kazakhstan,2007,male,5-14 years,89,1202402,7.4,Kazakhstan2007,,"104,849,886,826",7423,Generation Z
+Kazakhstan,2007,female,5-14 years,30,1149826,2.61,Kazakhstan2007,,"104,849,886,826",7423,Generation Z
+Kazakhstan,2008,male,75+ years,86,116815,73.62,Kazakhstan2008,,"133,441,612,247",9387,Silent
+Kazakhstan,2008,male,25-34 years,860,1232084,69.8,Kazakhstan2008,,"133,441,612,247",9387,Generation X
+Kazakhstan,2008,male,35-54 years,1178,1954893,60.26,Kazakhstan2008,,"133,441,612,247",9387,Boomers
+Kazakhstan,2008,male,55-74 years,383,766809,49.95,Kazakhstan2008,,"133,441,612,247",9387,Silent
+Kazakhstan,2008,male,15-24 years,657,1540282,42.65,Kazakhstan2008,,"133,441,612,247",9387,Millenials
+Kazakhstan,2008,female,75+ years,47,280166,16.78,Kazakhstan2008,,"133,441,612,247",9387,Silent
+Kazakhstan,2008,female,15-24 years,239,1496633,15.97,Kazakhstan2008,,"133,441,612,247",9387,Millenials
+Kazakhstan,2008,female,25-34 years,152,1240283,12.26,Kazakhstan2008,,"133,441,612,247",9387,Generation X
+Kazakhstan,2008,female,35-54 years,217,2165507,10.02,Kazakhstan2008,,"133,441,612,247",9387,Boomers
+Kazakhstan,2008,female,55-74 years,93,1110519,8.37,Kazakhstan2008,,"133,441,612,247",9387,Silent
+Kazakhstan,2008,male,5-14 years,66,1182019,5.58,Kazakhstan2008,,"133,441,612,247",9387,Generation Z
+Kazakhstan,2008,female,5-14 years,19,1130043,1.68,Kazakhstan2008,,"133,441,612,247",9387,Generation Z
+Kazakhstan,2009,male,25-34 years,848,1263819,67.1,Kazakhstan2009,,"115,308,661,143",8024,Generation X
+Kazakhstan,2009,male,35-54 years,1181,1980466,59.63,Kazakhstan2009,,"115,308,661,143",8024,Boomers
+Kazakhstan,2009,male,75+ years,60,116533,51.49,Kazakhstan2009,,"115,308,661,143",8024,Silent
+Kazakhstan,2009,male,55-74 years,380,792505,47.95,Kazakhstan2009,,"115,308,661,143",8024,Silent
+Kazakhstan,2009,male,15-24 years,608,1533027,39.66,Kazakhstan2009,,"115,308,661,143",8024,Millenials
+Kazakhstan,2009,female,75+ years,42,277759,15.12,Kazakhstan2009,,"115,308,661,143",8024,Silent
+Kazakhstan,2009,female,15-24 years,214,1488994,14.37,Kazakhstan2009,,"115,308,661,143",8024,Millenials
+Kazakhstan,2009,female,25-34 years,145,1269302,11.42,Kazakhstan2009,,"115,308,661,143",8024,Generation X
+Kazakhstan,2009,female,35-54 years,192,2191360,8.76,Kazakhstan2009,,"115,308,661,143",8024,Boomers
+Kazakhstan,2009,female,55-74 years,99,1150346,8.61,Kazakhstan2009,,"115,308,661,143",8024,Silent
+Kazakhstan,2009,male,5-14 years,43,1179629,3.65,Kazakhstan2009,,"115,308,661,143",8024,Generation Z
+Kazakhstan,2009,female,5-14 years,26,1126895,2.31,Kazakhstan2009,,"115,308,661,143",8024,Generation Z
+Kazakhstan,2010,male,75+ years,72,113390,63.5,Kazakhstan2010,0.766,"148,047,348,241",10062,Silent
+Kazakhstan,2010,male,25-34 years,808,1310211,61.67,Kazakhstan2010,0.766,"148,047,348,241",10062,Generation X
+Kazakhstan,2010,male,35-54 years,1118,2037599,54.87,Kazakhstan2010,0.766,"148,047,348,241",10062,Generation X
+Kazakhstan,2010,male,55-74 years,389,810461,48.0,Kazakhstan2010,0.766,"148,047,348,241",10062,Silent
+Kazakhstan,2010,male,15-24 years,528,1555580,33.94,Kazakhstan2010,0.766,"148,047,348,241",10062,Millenials
+Kazakhstan,2010,female,75+ years,39,263531,14.8,Kazakhstan2010,0.766,"148,047,348,241",10062,Silent
+Kazakhstan,2010,female,15-24 years,193,1549811,12.45,Kazakhstan2010,0.766,"148,047,348,241",10062,Millenials
+Kazakhstan,2010,female,25-34 years,140,1332552,10.51,Kazakhstan2010,0.766,"148,047,348,241",10062,Generation X
+Kazakhstan,2010,female,55-74 years,88,1144484,7.69,Kazakhstan2010,0.766,"148,047,348,241",10062,Silent
+Kazakhstan,2010,female,35-54 years,160,2227790,7.18,Kazakhstan2010,0.766,"148,047,348,241",10062,Generation X
+Kazakhstan,2010,male,5-14 years,49,1212500,4.04,Kazakhstan2010,0.766,"148,047,348,241",10062,Generation Z
+Kazakhstan,2010,female,5-14 years,25,1155258,2.16,Kazakhstan2010,0.766,"148,047,348,241",10062,Generation Z
+Kazakhstan,2011,male,25-34 years,778,1344771,57.85,Kazakhstan2011,0.772,"192,626,507,972",12969,Millenials
+Kazakhstan,2011,male,75+ years,64,119954,53.35,Kazakhstan2011,0.772,"192,626,507,972",12969,Silent
+Kazakhstan,2011,male,35-54 years,1062,2062451,51.49,Kazakhstan2011,0.772,"192,626,507,972",12969,Generation X
+Kazakhstan,2011,male,55-74 years,358,831202,43.07,Kazakhstan2011,0.772,"192,626,507,972",12969,Boomers
+Kazakhstan,2011,male,15-24 years,493,1526023,32.31,Kazakhstan2011,0.772,"192,626,507,972",12969,Millenials
+Kazakhstan,2011,female,75+ years,44,273217,16.1,Kazakhstan2011,0.772,"192,626,507,972",12969,Silent
+Kazakhstan,2011,female,15-24 years,171,1514356,11.29,Kazakhstan2011,0.772,"192,626,507,972",12969,Millenials
+Kazakhstan,2011,female,25-34 years,128,1367342,9.36,Kazakhstan2011,0.772,"192,626,507,972",12969,Millenials
+Kazakhstan,2011,female,35-54 years,166,2253866,7.37,Kazakhstan2011,0.772,"192,626,507,972",12969,Generation X
+Kazakhstan,2011,female,55-74 years,78,1172197,6.65,Kazakhstan2011,0.772,"192,626,507,972",12969,Boomers
+Kazakhstan,2011,male,5-14 years,38,1218724,3.12,Kazakhstan2011,0.772,"192,626,507,972",12969,Generation Z
+Kazakhstan,2011,female,5-14 years,21,1169247,1.8,Kazakhstan2011,0.772,"192,626,507,972",12969,Generation Z
+Kazakhstan,2012,male,25-34 years,716,1384736,51.71,Kazakhstan2012,0.778,"207,998,568,866",13845,Millenials
+Kazakhstan,2012,male,35-54 years,1074,2082135,51.58,Kazakhstan2012,0.778,"207,998,568,866",13845,Generation X
+Kazakhstan,2012,male,75+ years,60,129890,46.19,Kazakhstan2012,0.778,"207,998,568,866",13845,Silent
+Kazakhstan,2012,male,55-74 years,368,852033,43.19,Kazakhstan2012,0.778,"207,998,568,866",13845,Boomers
+Kazakhstan,2012,male,15-24 years,426,1481240,28.76,Kazakhstan2012,0.778,"207,998,568,866",13845,Millenials
+Kazakhstan,2012,female,75+ years,40,288919,13.84,Kazakhstan2012,0.778,"207,998,568,866",13845,Silent
+Kazakhstan,2012,female,15-24 years,131,1464381,8.95,Kazakhstan2012,0.778,"207,998,568,866",13845,Millenials
+Kazakhstan,2012,female,35-54 years,181,2273726,7.96,Kazakhstan2012,0.778,"207,998,568,866",13845,Generation X
+Kazakhstan,2012,female,25-34 years,111,1407854,7.88,Kazakhstan2012,0.778,"207,998,568,866",13845,Millenials
+Kazakhstan,2012,female,55-74 years,93,1198153,7.76,Kazakhstan2012,0.778,"207,998,568,866",13845,Boomers
+Kazakhstan,2012,male,5-14 years,33,1261734,2.62,Kazakhstan2012,0.778,"207,998,568,866",13845,Generation Z
+Kazakhstan,2012,female,5-14 years,7,1198748,0.58,Kazakhstan2012,0.778,"207,998,568,866",13845,Generation Z
+Kazakhstan,2013,male,75+ years,78,140008,55.71,Kazakhstan2013,0.785,"236,634,552,078",15552,Silent
+Kazakhstan,2013,male,35-54 years,1142,2098964,54.41,Kazakhstan2013,0.785,"236,634,552,078",15552,Generation X
+Kazakhstan,2013,male,25-34 years,733,1425587,51.42,Kazakhstan2013,0.785,"236,634,552,078",15552,Millenials
+Kazakhstan,2013,male,55-74 years,393,878598,44.73,Kazakhstan2013,0.785,"236,634,552,078",15552,Boomers
+Kazakhstan,2013,male,15-24 years,449,1429864,31.4,Kazakhstan2013,0.785,"236,634,552,078",15552,Millenials
+Kazakhstan,2013,female,75+ years,48,307080,15.63,Kazakhstan2013,0.785,"236,634,552,078",15552,Silent
+Kazakhstan,2013,female,15-24 years,182,1405609,12.95,Kazakhstan2013,0.785,"236,634,552,078",15552,Millenials
+Kazakhstan,2013,female,25-34 years,136,1451026,9.37,Kazakhstan2013,0.785,"236,634,552,078",15552,Millenials
+Kazakhstan,2013,female,35-54 years,193,2289754,8.43,Kazakhstan2013,0.785,"236,634,552,078",15552,Generation X
+Kazakhstan,2013,female,55-74 years,89,1228388,7.25,Kazakhstan2013,0.785,"236,634,552,078",15552,Boomers
+Kazakhstan,2013,male,5-14 years,42,1313549,3.2,Kazakhstan2013,0.785,"236,634,552,078",15552,Generation Z
+Kazakhstan,2013,female,5-14 years,27,1246955,2.17,Kazakhstan2013,0.785,"236,634,552,078",15552,Generation Z
+Kazakhstan,2014,male,35-54 years,1082,2116035,51.13,Kazakhstan2014,0.788,"221,415,572,820",14351,Generation X
+Kazakhstan,2014,male,75+ years,70,148578,47.11,Kazakhstan2014,0.788,"221,415,572,820",14351,Silent
+Kazakhstan,2014,male,25-34 years,667,1462224,45.62,Kazakhstan2014,0.788,"221,415,572,820",14351,Millenials
+Kazakhstan,2014,male,55-74 years,343,911127,37.65,Kazakhstan2014,0.788,"221,415,572,820",14351,Boomers
+Kazakhstan,2014,male,15-24 years,356,1377269,25.85,Kazakhstan2014,0.788,"221,415,572,820",14351,Millenials
+Kazakhstan,2014,female,75+ years,47,325593,14.44,Kazakhstan2014,0.788,"221,415,572,820",14351,Silent
+Kazakhstan,2014,female,15-24 years,132,1344351,9.82,Kazakhstan2014,0.788,"221,415,572,820",14351,Millenials
+Kazakhstan,2014,female,25-34 years,126,1490998,8.45,Kazakhstan2014,0.788,"221,415,572,820",14351,Millenials
+Kazakhstan,2014,female,35-54 years,171,2303567,7.42,Kazakhstan2014,0.788,"221,415,572,820",14351,Generation X
+Kazakhstan,2014,female,55-74 years,69,1263876,5.46,Kazakhstan2014,0.788,"221,415,572,820",14351,Boomers
+Kazakhstan,2014,male,5-14 years,38,1377917,2.76,Kazakhstan2014,0.788,"221,415,572,820",14351,Generation Z
+Kazakhstan,2014,female,5-14 years,18,1307309,1.38,Kazakhstan2014,0.788,"221,415,572,820",14351,Generation Z
+Russian Federation,1990,male,75+ years,1366,1382500,98.81,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Russian Federation,1990,male,35-54 years,12517,18495100,67.68,Russian Federation1990,,"516,814,274,022",3789,Silent
+Russian Federation,1990,male,55-74 years,6401,9577500,66.83,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Russian Federation,1990,male,25-34 years,6868,12477900,55.04,Russian Federation1990,,"516,814,274,022",3789,Boomers
+Russian Federation,1990,female,75+ years,1608,4847400,33.17,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Russian Federation,1990,male,15-24 years,2874,10059700,28.57,Russian Federation1990,,"516,814,274,022",3789,Generation X
+Russian Federation,1990,female,55-74 years,3064,15534000,19.72,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Russian Federation,1990,female,35-54 years,2467,19730400,12.5,Russian Federation1990,,"516,814,274,022",3789,Silent
+Russian Federation,1990,female,25-34 years,910,12197600,7.46,Russian Federation1990,,"516,814,274,022",3789,Boomers
+Russian Federation,1990,female,15-24 years,641,9649700,6.64,Russian Federation1990,,"516,814,274,022",3789,Generation X
+Russian Federation,1990,male,5-14 years,260,11397000,2.28,Russian Federation1990,,"516,814,274,022",3789,Generation X
+Russian Federation,1990,female,5-14 years,52,11049400,0.47,Russian Federation1990,,"516,814,274,022",3789,Generation X
+Russian Federation,1991,male,75+ years,1326,1371000,96.72,Russian Federation1991,,"517,962,962,963",3773,G.I. Generation
+Russian Federation,1991,male,35-54 years,12746,18782900,67.86,Russian Federation1991,,"517,962,962,963",3773,Boomers
+Russian Federation,1991,male,55-74 years,6566,9894400,66.36,Russian Federation1991,,"517,962,962,963",3773,Silent
+Russian Federation,1991,male,25-34 years,6901,12157500,56.76,Russian Federation1991,,"517,962,962,963",3773,Boomers
+Russian Federation,1991,female,75+ years,1510,4831000,31.26,Russian Federation1991,,"517,962,962,963",3773,G.I. Generation
+Russian Federation,1991,male,15-24 years,2984,10112700,29.51,Russian Federation1991,,"517,962,962,963",3773,Generation X
+Russian Federation,1991,female,55-74 years,2926,15781500,18.54,Russian Federation1991,,"517,962,962,963",3773,Silent
+Russian Federation,1991,female,35-54 years,2429,19987200,12.15,Russian Federation1991,,"517,962,962,963",3773,Boomers
+Russian Federation,1991,female,25-34 years,888,11901200,7.46,Russian Federation1991,,"517,962,962,963",3773,Boomers
+Russian Federation,1991,female,15-24 years,642,9697300,6.62,Russian Federation1991,,"517,962,962,963",3773,Generation X
+Russian Federation,1991,male,5-14 years,298,11561800,2.58,Russian Federation1991,,"517,962,962,963",3773,Millenials
+Russian Federation,1991,female,5-14 years,65,11204500,0.58,Russian Federation1991,,"517,962,962,963",3773,Millenials
+Russian Federation,1992,male,75+ years,1233,1340500,91.98,Russian Federation1992,,"460,290,556,901",3333,G.I. Generation
+Russian Federation,1992,male,35-54 years,15824,18933500,83.58,Russian Federation1992,,"460,290,556,901",3333,Boomers
+Russian Federation,1992,male,55-74 years,8014,10319200,77.66,Russian Federation1992,,"460,290,556,901",3333,Silent
+Russian Federation,1992,male,25-34 years,7958,11773600,67.59,Russian Federation1992,,"460,290,556,901",3333,Boomers
+Russian Federation,1992,male,15-24 years,3447,10235100,33.68,Russian Federation1992,,"460,290,556,901",3333,Generation X
+Russian Federation,1992,female,75+ years,1458,4741300,30.75,Russian Federation1992,,"460,290,556,901",3333,G.I. Generation
+Russian Federation,1992,female,55-74 years,3133,16206600,19.33,Russian Federation1992,,"460,290,556,901",3333,Silent
+Russian Federation,1992,female,35-54 years,2768,20093200,13.78,Russian Federation1992,,"460,290,556,901",3333,Boomers
+Russian Federation,1992,female,25-34 years,990,11561000,8.56,Russian Federation1992,,"460,290,556,901",3333,Boomers
+Russian Federation,1992,female,15-24 years,704,9791500,7.19,Russian Federation1992,,"460,290,556,901",3333,Generation X
+Russian Federation,1992,male,5-14 years,318,11747200,2.71,Russian Federation1992,,"460,290,556,901",3333,Millenials
+Russian Federation,1992,female,5-14 years,76,11376200,0.67,Russian Federation1992,,"460,290,556,901",3333,Millenials
+Russian Federation,1993,male,35-54 years,20256,18908000,107.13,Russian Federation1993,,"435,083,713,851",3160,Boomers
+Russian Federation,1993,male,75+ years,1364,1302200,104.75,Russian Federation1993,,"435,083,713,851",3160,G.I. Generation
+Russian Federation,1993,male,55-74 years,10118,10681300,94.73,Russian Federation1993,,"435,083,713,851",3160,Silent
+Russian Federation,1993,male,25-34 years,9328,11260400,82.84,Russian Federation1993,,"435,083,713,851",3160,Boomers
+Russian Federation,1993,male,15-24 years,4347,10306400,42.18,Russian Federation1993,,"435,083,713,851",3160,Generation X
+Russian Federation,1993,female,75+ years,1468,4615000,31.81,Russian Federation1993,,"435,083,713,851",3160,G.I. Generation
+Russian Federation,1993,female,55-74 years,3433,16579000,20.71,Russian Federation1993,,"435,083,713,851",3160,Silent
+Russian Federation,1993,female,35-54 years,3163,20012400,15.81,Russian Federation1993,,"435,083,713,851",3160,Boomers
+Russian Federation,1993,female,25-34 years,1154,11063800,10.43,Russian Federation1993,,"435,083,713,851",3160,Boomers
+Russian Federation,1993,female,15-24 years,785,9824100,7.99,Russian Federation1993,,"435,083,713,851",3160,Generation X
+Russian Federation,1993,male,5-14 years,337,11763700,2.86,Russian Federation1993,,"435,083,713,851",3160,Millenials
+Russian Federation,1993,female,5-14 years,93,11376500,0.82,Russian Federation1993,,"435,083,713,851",3160,Millenials
+Russian Federation,1994,male,35-54 years,22338,19044200,117.3,Russian Federation1994,,"395,077,301,248",2853,Boomers
+Russian Federation,1994,male,75+ years,1412,1281400,110.19,Russian Federation1994,,"395,077,301,248",2853,G.I. Generation
+Russian Federation,1994,male,55-74 years,11431,11006300,103.86,Russian Federation1994,,"395,077,301,248",2853,Silent
+Russian Federation,1994,male,25-34 years,10310,10947200,94.18,Russian Federation1994,,"395,077,301,248",2853,Boomers
+Russian Federation,1994,male,15-24 years,5177,10518500,49.22,Russian Federation1994,,"395,077,301,248",2853,Generation X
+Russian Federation,1994,female,75+ years,1454,4526500,32.12,Russian Federation1994,,"395,077,301,248",2853,G.I. Generation
+Russian Federation,1994,female,55-74 years,3489,16977700,20.55,Russian Federation1994,,"395,077,301,248",2853,Silent
+Russian Federation,1994,female,35-54 years,3257,20124300,16.18,Russian Federation1994,,"395,077,301,248",2853,Boomers
+Russian Federation,1994,female,25-34 years,1198,10708700,11.19,Russian Federation1994,,"395,077,301,248",2853,Boomers
+Russian Federation,1994,female,15-24 years,915,10036800,9.12,Russian Federation1994,,"395,077,301,248",2853,Generation X
+Russian Federation,1994,male,5-14 years,364,11857400,3.07,Russian Federation1994,,"395,077,301,248",2853,Millenials
+Russian Federation,1994,female,5-14 years,75,11447200,0.66,Russian Federation1994,,"395,077,301,248",2853,Millenials
+Russian Federation,1995,male,35-54 years,21706,19249600,112.76,Russian Federation1995,,"395,531,066,563",2844,Boomers
+Russian Federation,1995,male,55-74 years,11152,11227000,99.33,Russian Federation1995,,"395,531,066,563",2844,Silent
+Russian Federation,1995,male,75+ years,1182,1258900,93.89,Russian Federation1995,,"395,531,066,563",2844,G.I. Generation
+Russian Federation,1995,male,25-34 years,9787,10700700,91.46,Russian Federation1995,,"395,531,066,563",2844,Generation X
+Russian Federation,1995,male,15-24 years,5733,10678300,53.69,Russian Federation1995,,"395,531,066,563",2844,Generation X
+Russian Federation,1995,female,75+ years,1546,4436700,34.85,Russian Federation1995,,"395,531,066,563",2844,G.I. Generation
+Russian Federation,1995,female,55-74 years,3499,17293700,20.23,Russian Federation1995,,"395,531,066,563",2844,Silent
+Russian Federation,1995,female,35-54 years,3328,20339300,16.36,Russian Federation1995,,"395,531,066,563",2844,Boomers
+Russian Federation,1995,female,25-34 years,1179,10375900,11.36,Russian Federation1995,,"395,531,066,563",2844,Generation X
+Russian Federation,1995,female,15-24 years,1003,10253200,9.78,Russian Federation1995,,"395,531,066,563",2844,Generation X
+Russian Federation,1995,male,5-14 years,355,11854400,2.99,Russian Federation1995,,"395,531,066,563",2844,Millenials
+Russian Federation,1995,female,5-14 years,78,11419400,0.68,Russian Federation1995,,"395,531,066,563",2844,Millenials
+Russian Federation,1996,male,35-54 years,20562,19507100,105.41,Russian Federation1996,,"391,719,993,757",2813,Boomers
+Russian Federation,1996,male,75+ years,1192,1242800,95.91,Russian Federation1996,,"391,719,993,757",2813,G.I. Generation
+Russian Federation,1996,male,55-74 years,10754,11361400,94.65,Russian Federation1996,,"391,719,993,757",2813,Silent
+Russian Federation,1996,male,25-34 years,9214,10443600,88.23,Russian Federation1996,,"391,719,993,757",2813,Generation X
+Russian Federation,1996,male,15-24 years,5784,10772000,53.69,Russian Federation1996,,"391,719,993,757",2813,Generation X
+Russian Federation,1996,female,75+ years,1418,4369100,32.46,Russian Federation1996,,"391,719,993,757",2813,G.I. Generation
+Russian Federation,1996,female,55-74 years,3205,17502200,18.31,Russian Federation1996,,"391,719,993,757",2813,Silent
+Russian Federation,1996,female,35-54 years,2953,20618800,14.32,Russian Federation1996,,"391,719,993,757",2813,Boomers
+Russian Federation,1996,female,25-34 years,1127,10062400,11.2,Russian Federation1996,,"391,719,993,757",2813,Generation X
+Russian Federation,1996,female,15-24 years,904,10409100,8.68,Russian Federation1996,,"391,719,993,757",2813,Generation X
+Russian Federation,1996,male,5-14 years,320,11716700,2.73,Russian Federation1996,,"391,719,993,757",2813,Millenials
+Russian Federation,1996,female,5-14 years,78,11267400,0.69,Russian Federation1996,,"391,719,993,757",2813,Millenials
+Russian Federation,1997,male,75+ years,1205,1241100,97.09,Russian Federation1997,,"404,926,534,140",2907,G.I. Generation
+Russian Federation,1997,male,35-54 years,18973,19913400,95.28,Russian Federation1997,,"404,926,534,140",2907,Boomers
+Russian Federation,1997,male,55-74 years,10726,11327500,94.69,Russian Federation1997,,"404,926,534,140",2907,Silent
+Russian Federation,1997,male,25-34 years,8222,10242100,80.28,Russian Federation1997,,"404,926,534,140",2907,Generation X
+Russian Federation,1997,male,15-24 years,5780,10874000,53.15,Russian Federation1997,,"404,926,534,140",2907,Generation X
+Russian Federation,1997,female,75+ years,1424,4360900,32.65,Russian Federation1997,,"404,926,534,140",2907,G.I. Generation
+Russian Federation,1997,female,55-74 years,3180,17453600,18.22,Russian Federation1997,,"404,926,534,140",2907,Silent
+Russian Federation,1997,female,35-54 years,2819,21047500,13.39,Russian Federation1997,,"404,926,534,140",2907,Boomers
+Russian Federation,1997,female,25-34 years,1050,9833800,10.68,Russian Federation1997,,"404,926,534,140",2907,Generation X
+Russian Federation,1997,female,15-24 years,945,10556600,8.95,Russian Federation1997,,"404,926,534,140",2907,Generation X
+Russian Federation,1997,male,5-14 years,346,11444500,3.02,Russian Federation1997,,"404,926,534,140",2907,Millenials
+Russian Federation,1997,female,5-14 years,76,10988200,0.69,Russian Federation1997,,"404,926,534,140",2907,Millenials
+Russian Federation,1998,male,35-54 years,18058,20487900,88.14,Russian Federation1998,,"270,953,116,950",1948,Boomers
+Russian Federation,1998,male,75+ years,1110,1261400,88.0,Russian Federation1998,,"270,953,116,950",1948,G.I. Generation
+Russian Federation,1998,male,55-74 years,9683,11058100,87.56,Russian Federation1998,,"270,953,116,950",1948,Silent
+Russian Federation,1998,male,25-34 years,7634,10104200,75.55,Russian Federation1998,,"270,953,116,950",1948,Generation X
+Russian Federation,1998,male,15-24 years,5729,11040600,51.89,Russian Federation1998,,"270,953,116,950",1948,Generation X
+Russian Federation,1998,female,75+ years,1431,4434700,32.27,Russian Federation1998,,"270,953,116,950",1948,G.I. Generation
+Russian Federation,1998,female,55-74 years,2917,17046200,17.11,Russian Federation1998,,"270,953,116,950",1948,Silent
+Russian Federation,1998,female,35-54 years,2715,21695000,12.51,Russian Federation1998,,"270,953,116,950",1948,Boomers
+Russian Federation,1998,female,25-34 years,902,9685600,9.31,Russian Federation1998,,"270,953,116,950",1948,Generation X
+Russian Federation,1998,female,15-24 years,927,10752700,8.62,Russian Federation1998,,"270,953,116,950",1948,Generation X
+Russian Federation,1998,male,5-14 years,333,11006800,3.03,Russian Federation1998,,"270,953,116,950",1948,Millenials
+Russian Federation,1998,female,5-14 years,79,10548900,0.75,Russian Federation1998,,"270,953,116,950",1948,Millenials
+Russian Federation,1999,male,55-74 years,10609,10669100,99.44,Russian Federation1999,,"195,905,767,669",1412,Silent
+Russian Federation,1999,male,35-54 years,20705,21016400,98.52,Russian Federation1999,,"195,905,767,669",1412,Boomers
+Russian Federation,1999,male,75+ years,1128,1310400,86.08,Russian Federation1999,,"195,905,767,669",1412,G.I. Generation
+Russian Federation,1999,male,25-34 years,8101,10022400,80.83,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Russian Federation,1999,male,15-24 years,6120,11232900,54.48,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Russian Federation,1999,female,75+ years,1490,4569600,32.61,Russian Federation1999,,"195,905,767,669",1412,G.I. Generation
+Russian Federation,1999,female,55-74 years,3072,16457600,18.67,Russian Federation1999,,"195,905,767,669",1412,Silent
+Russian Federation,1999,female,35-54 years,3128,22337800,14.0,Russian Federation1999,,"195,905,767,669",1412,Boomers
+Russian Federation,1999,female,25-34 years,1041,9616300,10.83,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Russian Federation,1999,female,15-24 years,1080,10957600,9.86,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Russian Federation,1999,male,5-14 years,402,10490300,3.83,Russian Federation1999,,"195,905,767,669",1412,Millenials
+Russian Federation,1999,female,5-14 years,98,10037400,0.98,Russian Federation1999,,"195,905,767,669",1412,Millenials
+Russian Federation,2000,male,35-54 years,21063,21378098,98.53,Russian Federation2000,,"259,708,496,267",1879,Boomers
+Russian Federation,2000,male,55-74 years,9656,10282841,93.9,Russian Federation2000,,"259,708,496,267",1879,Silent
+Russian Federation,2000,male,25-34 years,8654,10025181,86.32,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Russian Federation,2000,male,75+ years,1165,1380292,84.4,Russian Federation2000,,"259,708,496,267",1879,G.I. Generation
+Russian Federation,2000,male,15-24 years,6578,11393600,57.73,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Russian Federation,2000,female,75+ years,1382,4729070,29.22,Russian Federation2000,,"259,708,496,267",1879,G.I. Generation
+Russian Federation,2000,female,55-74 years,2646,15887955,16.65,Russian Federation2000,,"259,708,496,267",1879,Silent
+Russian Federation,2000,female,35-54 years,2926,22830770,12.82,Russian Federation2000,,"259,708,496,267",1879,Boomers
+Russian Federation,2000,female,25-34 years,1027,9648389,10.64,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Russian Federation,2000,female,15-24 years,1015,11120027,9.13,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Russian Federation,2000,male,5-14 years,404,9986252,4.05,Russian Federation2000,,"259,708,496,267",1879,Millenials
+Russian Federation,2000,female,5-14 years,103,9543220,1.08,Russian Federation2000,,"259,708,496,267",1879,Millenials
+Russian Federation,2001,male,35-54 years,21262,21476420,99.0,Russian Federation2001,,"306,602,673,980",2229,Boomers
+Russian Federation,2001,male,55-74 years,9234,10030533,92.06,Russian Federation2001,,"306,602,673,980",2229,Silent
+Russian Federation,2001,male,25-34 years,8886,10078045,88.17,Russian Federation2001,,"306,602,673,980",2229,Generation X
+Russian Federation,2001,male,75+ years,1236,1485110,83.23,Russian Federation2001,,"306,602,673,980",2229,Silent
+Russian Federation,2001,male,15-24 years,6945,11547645,60.14,Russian Federation2001,,"306,602,673,980",2229,Millenials
+Russian Federation,2001,female,75+ years,1349,4919708,27.42,Russian Federation2001,,"306,602,673,980",2229,Silent
+Russian Federation,2001,female,55-74 years,2471,15506563,15.94,Russian Federation2001,,"306,602,673,980",2229,Silent
+Russian Federation,2001,female,35-54 years,2920,23046634,12.67,Russian Federation2001,,"306,602,673,980",2229,Boomers
+Russian Federation,2001,female,25-34 years,1087,9733290,11.17,Russian Federation2001,,"306,602,673,980",2229,Generation X
+Russian Federation,2001,female,15-24 years,1065,11270161,9.45,Russian Federation2001,,"306,602,673,980",2229,Millenials
+Russian Federation,2001,male,5-14 years,389,9428879,4.13,Russian Federation2001,,"306,602,673,980",2229,Millenials
+Russian Federation,2001,female,5-14 years,114,8998521,1.27,Russian Federation2001,,"306,602,673,980",2229,Millenials
+Russian Federation,2002,male,35-54 years,20119,21320535,94.36,Russian Federation2002,,"345,110,438,692",2527,Boomers
+Russian Federation,2002,male,55-74 years,8850,9892090,89.47,Russian Federation2002,,"345,110,438,692",2527,Silent
+Russian Federation,2002,male,25-34 years,8696,10156286,85.62,Russian Federation2002,,"345,110,438,692",2527,Generation X
+Russian Federation,2002,male,75+ years,1297,1622258,79.95,Russian Federation2002,,"345,110,438,692",2527,Silent
+Russian Federation,2002,male,15-24 years,6667,11714752,56.91,Russian Federation2002,,"345,110,438,692",2527,Millenials
+Russian Federation,2002,female,75+ years,1452,5126645,28.32,Russian Federation2002,,"345,110,438,692",2527,Silent
+Russian Federation,2002,female,55-74 years,2472,15292297,16.17,Russian Federation2002,,"345,110,438,692",2527,Silent
+Russian Federation,2002,female,35-54 years,2910,22995821,12.65,Russian Federation2002,,"345,110,438,692",2527,Boomers
+Russian Federation,2002,female,25-34 years,1086,9838656,11.04,Russian Federation2002,,"345,110,438,692",2527,Generation X
+Russian Federation,2002,female,15-24 years,1054,11425220,9.23,Russian Federation2002,,"345,110,438,692",2527,Millenials
+Russian Federation,2002,male,5-14 years,338,8810074,3.84,Russian Federation2002,,"345,110,438,692",2527,Millenials
+Russian Federation,2002,female,5-14 years,83,8396266,0.99,Russian Federation2002,,"345,110,438,692",2527,Millenials
+Russian Federation,2003,male,75+ years,1497,1648684,90.8,Russian Federation2003,,"430,347,770,732",3141,Silent
+Russian Federation,2003,male,35-54 years,18681,21007346,88.93,Russian Federation2003,,"430,347,770,732",3141,Boomers
+Russian Federation,2003,male,55-74 years,8314,9920853,83.8,Russian Federation2003,,"430,347,770,732",3141,Silent
+Russian Federation,2003,male,25-34 years,8085,10260634,78.8,Russian Federation2003,,"430,347,770,732",3141,Generation X
+Russian Federation,2003,male,15-24 years,6134,12256012,50.05,Russian Federation2003,,"430,347,770,732",3141,Millenials
+Russian Federation,2003,female,75+ years,1420,5170321,27.46,Russian Federation2003,,"430,347,770,732",3141,Silent
+Russian Federation,2003,female,55-74 years,2214,15243314,14.52,Russian Federation2003,,"430,347,770,732",3141,Silent
+Russian Federation,2003,female,35-54 years,2718,23024470,11.8,Russian Federation2003,,"430,347,770,732",3141,Boomers
+Russian Federation,2003,female,25-34 years,1050,10257511,10.24,Russian Federation2003,,"430,347,770,732",3141,Generation X
+Russian Federation,2003,female,15-24 years,969,11942216,8.11,Russian Federation2003,,"430,347,770,732",3141,Millenials
+Russian Federation,2003,male,5-14 years,284,8328381,3.41,Russian Federation2003,,"430,347,770,732",3141,Millenials
+Russian Federation,2003,female,5-14 years,79,7960126,0.99,Russian Federation2003,,"430,347,770,732",3141,Millenials
+Russian Federation,2004,male,75+ years,1580,1776778,88.93,Russian Federation2004,,"591,016,690,743",4312,Silent
+Russian Federation,2004,male,35-54 years,17465,20843896,83.79,Russian Federation2004,,"591,016,690,743",4312,Boomers
+Russian Federation,2004,male,55-74 years,7715,9924764,77.73,Russian Federation2004,,"591,016,690,743",4312,Silent
+Russian Federation,2004,male,25-34 years,7955,10461766,76.04,Russian Federation2004,,"591,016,690,743",4312,Generation X
+Russian Federation,2004,male,15-24 years,5891,12425537,47.41,Russian Federation2004,,"591,016,690,743",4312,Millenials
+Russian Federation,2004,female,75+ years,1398,5370057,26.03,Russian Federation2004,,"591,016,690,743",4312,Silent
+Russian Federation,2004,female,55-74 years,2029,15236313,13.32,Russian Federation2004,,"591,016,690,743",4312,Silent
+Russian Federation,2004,female,35-54 years,2668,22956701,11.62,Russian Federation2004,,"591,016,690,743",4312,Boomers
+Russian Federation,2004,female,25-34 years,1042,10494419,9.93,Russian Federation2004,,"591,016,690,743",4312,Generation X
+Russian Federation,2004,female,15-24 years,992,12088752,8.21,Russian Federation2004,,"591,016,690,743",4312,Millenials
+Russian Federation,2004,male,5-14 years,288,7919935,3.64,Russian Federation2004,,"591,016,690,743",4312,Millenials
+Russian Federation,2004,female,5-14 years,73,7572781,0.96,Russian Federation2004,,"591,016,690,743",4312,Millenials
+Russian Federation,2005,male,75+ years,1599,1885942,84.79,Russian Federation2005,,"764,017,107,992",5611,Silent
+Russian Federation,2005,male,35-54 years,15843,20550405,77.09,Russian Federation2005,,"764,017,107,992",5611,Boomers
+Russian Federation,2005,male,25-34 years,7796,10578048,73.7,Russian Federation2005,,"764,017,107,992",5611,Generation X
+Russian Federation,2005,male,55-74 years,7144,9977150,71.6,Russian Federation2005,,"764,017,107,992",5611,Silent
+Russian Federation,2005,male,15-24 years,5750,12357989,46.53,Russian Federation2005,,"764,017,107,992",5611,Millenials
+Russian Federation,2005,female,75+ years,1304,5535287,23.56,Russian Federation2005,,"764,017,107,992",5611,Silent
+Russian Federation,2005,female,55-74 years,1884,15297324,12.32,Russian Federation2005,,"764,017,107,992",5611,Silent
+Russian Federation,2005,female,35-54 years,2311,22722081,10.17,Russian Federation2005,,"764,017,107,992",5611,Boomers
+Russian Federation,2005,female,25-34 years,992,10640505,9.32,Russian Federation2005,,"764,017,107,992",5611,Generation X
+Russian Federation,2005,female,15-24 years,904,12011488,7.53,Russian Federation2005,,"764,017,107,992",5611,Millenials
+Russian Federation,2005,male,5-14 years,206,7467908,2.76,Russian Federation2005,,"764,017,107,992",5611,Millenials
+Russian Federation,2005,female,5-14 years,69,7138064,0.97,Russian Federation2005,,"764,017,107,992",5611,Millenials
+Russian Federation,2006,male,75+ years,1701,1966649,86.49,Russian Federation2006,,"989,930,542,279",7313,Silent
+Russian Federation,2006,male,25-34 years,7584,10691395,70.94,Russian Federation2006,,"989,930,542,279",7313,Generation X
+Russian Federation,2006,male,35-54 years,14020,20336306,68.94,Russian Federation2006,,"989,930,542,279",7313,Boomers
+Russian Federation,2006,male,55-74 years,6562,10054153,65.27,Russian Federation2006,,"989,930,542,279",7313,Silent
+Russian Federation,2006,male,15-24 years,5319,12174930,43.69,Russian Federation2006,,"989,930,542,279",7313,Millenials
+Russian Federation,2006,female,75+ years,1401,5646287,24.81,Russian Federation2006,,"989,930,542,279",7313,Silent
+Russian Federation,2006,female,55-74 years,1719,15405634,11.16,Russian Federation2006,,"989,930,542,279",7313,Silent
+Russian Federation,2006,female,35-54 years,2189,22545749,9.71,Russian Federation2006,,"989,930,542,279",7313,Boomers
+Russian Federation,2006,female,25-34 years,974,10784340,9.03,Russian Federation2006,,"989,930,542,279",7313,Generation X
+Russian Federation,2006,female,15-24 years,869,11819245,7.35,Russian Federation2006,,"989,930,542,279",7313,Millenials
+Russian Federation,2006,male,5-14 years,201,7123987,2.82,Russian Federation2006,,"989,930,542,279",7313,Millenials
+Russian Federation,2006,female,5-14 years,75,6808787,1.1,Russian Federation2006,,"989,930,542,279",7313,Millenials
+Russian Federation,2007,male,75+ years,1660,2015773,82.35,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Russian Federation,2007,male,25-34 years,7483,10843276,69.01,Russian Federation2007,,"1,299,705,247,686",9643,Generation X
+Russian Federation,2007,male,35-54 years,13065,20173873,64.76,Russian Federation2007,,"1,299,705,247,686",9643,Boomers
+Russian Federation,2007,male,55-74 years,6151,10209479,60.25,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Russian Federation,2007,male,15-24 years,5257,11862129,44.32,Russian Federation2007,,"1,299,705,247,686",9643,Millenials
+Russian Federation,2007,female,75+ years,1358,5710937,23.78,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Russian Federation,2007,female,55-74 years,1738,15620091,11.13,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Russian Federation,2007,female,35-54 years,2176,22379725,9.72,Russian Federation2007,,"1,299,705,247,686",9643,Boomers
+Russian Federation,2007,female,25-34 years,1051,10944247,9.6,Russian Federation2007,,"1,299,705,247,686",9643,Generation X
+Russian Federation,2007,female,15-24 years,949,11502702,8.25,Russian Federation2007,,"1,299,705,247,686",9643,Millenials
+Russian Federation,2007,male,5-14 years,192,6911384,2.78,Russian Federation2007,,"1,299,705,247,686",9643,Generation Z
+Russian Federation,2007,female,5-14 years,69,6605348,1.04,Russian Federation2007,,"1,299,705,247,686",9643,Generation Z
+Russian Federation,2008,male,75+ years,1712,2029226,84.37,Russian Federation2008,,"1,660,844,408,500",12359,Silent
+Russian Federation,2008,male,25-34 years,6860,11091377,61.85,Russian Federation2008,,"1,660,844,408,500",12359,Generation X
+Russian Federation,2008,male,35-54 years,11848,20041975,59.12,Russian Federation2008,,"1,660,844,408,500",12359,Boomers
+Russian Federation,2008,male,55-74 years,5855,10403205,56.28,Russian Federation2008,,"1,660,844,408,500",12359,Silent
+Russian Federation,2008,male,15-24 years,4863,11377099,42.74,Russian Federation2008,,"1,660,844,408,500",12359,Millenials
+Russian Federation,2008,female,75+ years,1285,5714841,22.49,Russian Federation2008,,"1,660,844,408,500",12359,Silent
+Russian Federation,2008,female,55-74 years,1613,15906813,10.14,Russian Federation2008,,"1,660,844,408,500",12359,Silent
+Russian Federation,2008,female,35-54 years,2040,22229346,9.18,Russian Federation2008,,"1,660,844,408,500",12359,Boomers
+Russian Federation,2008,female,25-34 years,981,11179123,8.78,Russian Federation2008,,"1,660,844,408,500",12359,Generation X
+Russian Federation,2008,female,15-24 years,916,11025088,8.31,Russian Federation2008,,"1,660,844,408,500",12359,Millenials
+Russian Federation,2008,male,5-14 years,148,6848169,2.16,Russian Federation2008,,"1,660,844,408,500",12359,Generation Z
+Russian Federation,2008,female,5-14 years,90,6539687,1.38,Russian Federation2008,,"1,660,844,408,500",12359,Generation Z
+Russian Federation,2009,male,75+ years,1534,2012787,76.21,Russian Federation2009,,"1,222,643,696,992",9118,Silent
+Russian Federation,2009,male,25-34 years,7233,11373727,63.59,Russian Federation2009,,"1,222,643,696,992",9118,Generation X
+Russian Federation,2009,male,35-54 years,11721,19901557,58.89,Russian Federation2009,,"1,222,643,696,992",9118,Boomers
+Russian Federation,2009,male,55-74 years,5637,10645241,52.95,Russian Federation2009,,"1,222,643,696,992",9118,Silent
+Russian Federation,2009,male,15-24 years,4632,10819693,42.81,Russian Federation2009,,"1,222,643,696,992",9118,Millenials
+Russian Federation,2009,female,75+ years,1133,5657810,20.03,Russian Federation2009,,"1,222,643,696,992",9118,Silent
+Russian Federation,2009,female,55-74 years,1519,16287675,9.33,Russian Federation2009,,"1,222,643,696,992",9118,Silent
+Russian Federation,2009,female,35-54 years,1930,22050450,8.75,Russian Federation2009,,"1,222,643,696,992",9118,Boomers
+Russian Federation,2009,female,25-34 years,986,11440839,8.62,Russian Federation2009,,"1,222,643,696,992",9118,Generation X
+Russian Federation,2009,female,15-24 years,839,10472951,8.01,Russian Federation2009,,"1,222,643,696,992",9118,Millenials
+Russian Federation,2009,male,5-14 years,166,6869835,2.42,Russian Federation2009,,"1,222,643,696,992",9118,Generation Z
+Russian Federation,2009,female,5-14 years,78,6552868,1.19,Russian Federation2009,,"1,222,643,696,992",9118,Generation Z
+Russian Federation,2010,male,75+ years,1506,2023458,74.43,Russian Federation2010,,"1,524,916,112,079",11307,Silent
+Russian Federation,2010,male,25-34 years,6508,11398127,57.1,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
+Russian Federation,2010,male,35-54 years,10304,19786280,52.08,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
+Russian Federation,2010,male,55-74 years,5178,11174530,46.34,Russian Federation2010,,"1,524,916,112,079",11307,Silent
+Russian Federation,2010,male,15-24 years,3934,10546669,37.3,Russian Federation2010,,"1,524,916,112,079",11307,Millenials
+Russian Federation,2010,female,75+ years,1041,5711389,18.23,Russian Federation2010,,"1,524,916,112,079",11307,Silent
+Russian Federation,2010,female,55-74 years,1354,16921727,8.0,Russian Federation2010,,"1,524,916,112,079",11307,Silent
+Russian Federation,2010,female,25-34 years,893,11473939,7.78,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
+Russian Federation,2010,female,35-54 years,1680,21894031,7.67,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
+Russian Federation,2010,female,15-24 years,763,10241329,7.45,Russian Federation2010,,"1,524,916,112,079",11307,Millenials
+Russian Federation,2010,male,5-14 years,131,7012170,1.87,Russian Federation2010,,"1,524,916,112,079",11307,Generation Z
+Russian Federation,2010,female,5-14 years,64,6682338,0.96,Russian Federation2010,,"1,524,916,112,079",11307,Generation Z
+Russian Federation,2011,male,75+ years,1485,2093449,70.94,Russian Federation2011,,"2,051,661,732,060",15226,Silent
+Russian Federation,2011,male,25-34 years,6011,11598196,51.83,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
+Russian Federation,2011,male,35-54 years,9411,19684905,47.81,Russian Federation2011,,"2,051,661,732,060",15226,Generation X
+Russian Federation,2011,male,55-74 years,4892,11401026,42.91,Russian Federation2011,,"2,051,661,732,060",15226,Boomers
+Russian Federation,2011,male,15-24 years,3569,10070836,35.44,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
+Russian Federation,2011,female,75+ years,1103,5829088,18.92,Russian Federation2011,,"2,051,661,732,060",15226,Silent
+Russian Federation,2011,female,15-24 years,740,9723773,7.61,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
+Russian Federation,2011,female,55-74 years,1300,17200185,7.56,Russian Federation2011,,"2,051,661,732,060",15226,Boomers
+Russian Federation,2011,female,25-34 years,843,11638171,7.24,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
+Russian Federation,2011,female,35-54 years,1515,21733089,6.97,Russian Federation2011,,"2,051,661,732,060",15226,Generation X
+Russian Federation,2011,male,5-14 years,102,7052757,1.45,Russian Federation2011,,"2,051,661,732,060",15226,Generation Z
+Russian Federation,2011,female,5-14 years,67,6720399,1.0,Russian Federation2011,,"2,051,661,732,060",15226,Generation Z
+Russian Federation,2012,male,75+ years,1486,2211989,67.18,Russian Federation2012,,"2,210,256,976,945",16413,Silent
+Russian Federation,2012,male,25-34 years,5762,11845892,48.64,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
+Russian Federation,2012,male,35-54 years,8755,19588712,44.69,Russian Federation2012,,"2,210,256,976,945",16413,Generation X
+Russian Federation,2012,male,55-74 years,4804,11597408,41.42,Russian Federation2012,,"2,210,256,976,945",16413,Boomers
+Russian Federation,2012,male,15-24 years,3275,9484213,34.53,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
+Russian Federation,2012,female,75+ years,1095,6062562,18.06,Russian Federation2012,,"2,210,256,976,945",16413,Silent
+Russian Federation,2012,female,25-34 years,866,11827264,7.32,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
+Russian Federation,2012,female,35-54 years,1572,21564691,7.29,Russian Federation2012,,"2,210,256,976,945",16413,Generation X
+Russian Federation,2012,female,55-74 years,1229,17375445,7.07,Russian Federation2012,,"2,210,256,976,945",16413,Boomers
+Russian Federation,2012,female,15-24 years,627,9131383,6.87,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
+Russian Federation,2012,male,5-14 years,107,7159170,1.49,Russian Federation2012,,"2,210,256,976,945",16413,Generation Z
+Russian Federation,2012,female,5-14 years,65,6819793,0.95,Russian Federation2012,,"2,210,256,976,945",16413,Generation Z
+Russian Federation,2013,male,75+ years,1549,2349484,65.93,Russian Federation2013,,"2,297,128,039,058",17052,Silent
+Russian Federation,2013,male,25-34 years,5825,12057910,48.31,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
+Russian Federation,2013,male,35-54 years,8815,19484117,45.24,Russian Federation2013,,"2,297,128,039,058",17052,Generation X
+Russian Federation,2013,male,55-74 years,4644,11808589,39.33,Russian Federation2013,,"2,297,128,039,058",17052,Boomers
+Russian Federation,2013,male,15-24 years,2770,8908926,31.09,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
+Russian Federation,2013,female,75+ years,1000,6355318,15.73,Russian Federation2013,,"2,297,128,039,058",17052,Silent
+Russian Federation,2013,female,35-54 years,1454,21385188,6.8,Russian Federation2013,,"2,297,128,039,058",17052,Generation X
+Russian Federation,2013,female,25-34 years,803,11984461,6.7,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
+Russian Federation,2013,female,55-74 years,1154,17517861,6.59,Russian Federation2013,,"2,297,128,039,058",17052,Boomers
+Russian Federation,2013,female,15-24 years,511,8554683,5.97,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
+Russian Federation,2013,male,5-14 years,111,7327888,1.51,Russian Federation2013,,"2,297,128,039,058",17052,Generation Z
+Russian Federation,2013,female,5-14 years,54,6979537,0.77,Russian Federation2013,,"2,297,128,039,058",17052,Generation Z
+Russian Federation,2014,male,75+ years,1597,2349484,67.97,Russian Federation2014,,"2,063,662,665,172",15319,Silent
+Russian Federation,2014,male,25-34 years,5276,12057910,43.76,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
+Russian Federation,2014,male,35-54 years,8105,19484117,41.6,Russian Federation2014,,"2,063,662,665,172",15319,Generation X
+Russian Federation,2014,male,55-74 years,4501,11808589,38.12,Russian Federation2014,,"2,063,662,665,172",15319,Boomers
+Russian Federation,2014,male,15-24 years,2311,8908926,25.94,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
+Russian Federation,2014,female,75+ years,1019,6355318,16.03,Russian Federation2014,,"2,063,662,665,172",15319,Silent
+Russian Federation,2014,female,55-74 years,1105,17517861,6.31,Russian Federation2014,,"2,063,662,665,172",15319,Boomers
+Russian Federation,2014,female,35-54 years,1297,21385188,6.06,Russian Federation2014,,"2,063,662,665,172",15319,Generation X
+Russian Federation,2014,female,25-34 years,723,11984461,6.03,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
+Russian Federation,2014,female,15-24 years,467,8554683,5.46,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
+Russian Federation,2014,male,5-14 years,96,7327888,1.31,Russian Federation2014,,"2,063,662,665,172",15319,Generation Z
+Russian Federation,2014,female,5-14 years,44,6979537,0.63,Russian Federation2014,,"2,063,662,665,172",15319,Generation Z
+Ukraine,1990,male,75+ years,494,688400,71.76,Ukraine1990,0.705,"81,456,918,679",1698,G.I. Generation
+Ukraine,1990,male,35-54 years,3570,6444100,55.4,Ukraine1990,0.705,"81,456,918,679",1698,Silent
+Ukraine,1990,male,55-74 years,2003,3733600,53.65,Ukraine1990,0.705,"81,456,918,679",1698,G.I. Generation
+Ukraine,1990,male,25-34 years,1490,3837800,38.82,Ukraine1990,0.705,"81,456,918,679",1698,Boomers
+Ukraine,1990,female,75+ years,452,1956100,23.11,Ukraine1990,0.705,"81,456,918,679",1698,G.I. Generation
+Ukraine,1990,male,15-24 years,613,3544600,17.29,Ukraine1990,0.705,"81,456,918,679",1698,Generation X
+Ukraine,1990,female,55-74 years,886,5866100,15.1,Ukraine1990,0.705,"81,456,918,679",1698,G.I. Generation
+Ukraine,1990,female,35-54 years,704,7140700,9.86,Ukraine1990,0.705,"81,456,918,679",1698,Silent
+Ukraine,1990,female,25-34 years,203,3904100,5.2,Ukraine1990,0.705,"81,456,918,679",1698,Boomers
+Ukraine,1990,female,15-24 years,165,3454600,4.78,Ukraine1990,0.705,"81,456,918,679",1698,Generation X
+Ukraine,1990,male,5-14 years,59,3763100,1.57,Ukraine1990,0.705,"81,456,918,679",1698,Generation X
+Ukraine,1990,female,5-14 years,6,3638400,0.16,Ukraine1990,0.705,"81,456,918,679",1698,Generation X
+Ukraine,1991,male,75+ years,482,667000,72.26,Ukraine1991,,"77,464,561,150",1607,G.I. Generation
+Ukraine,1991,male,35-54 years,3634,6449100,56.35,Ukraine1991,,"77,464,561,150",1607,Boomers
+Ukraine,1991,male,55-74 years,2075,3852600,53.86,Ukraine1991,,"77,464,561,150",1607,Silent
+Ukraine,1991,male,25-34 years,1465,3801300,38.54,Ukraine1991,,"77,464,561,150",1607,Boomers
+Ukraine,1991,female,75+ years,473,1920400,24.63,Ukraine1991,,"77,464,561,150",1607,G.I. Generation
+Ukraine,1991,male,15-24 years,618,3586700,17.23,Ukraine1991,,"77,464,561,150",1607,Generation X
+Ukraine,1991,female,55-74 years,867,5958600,14.55,Ukraine1991,,"77,464,561,150",1607,Silent
+Ukraine,1991,female,35-54 years,677,7148300,9.47,Ukraine1991,,"77,464,561,150",1607,Boomers
+Ukraine,1991,female,25-34 years,189,3862900,4.89,Ukraine1991,,"77,464,561,150",1607,Boomers
+Ukraine,1991,female,15-24 years,137,3495000,3.92,Ukraine1991,,"77,464,561,150",1607,Generation X
+Ukraine,1991,male,5-14 years,64,3793000,1.69,Ukraine1991,,"77,464,561,150",1607,Millenials
+Ukraine,1991,female,5-14 years,19,3665700,0.52,Ukraine1991,,"77,464,561,150",1607,Millenials
+Ukraine,1992,male,75+ years,530,635600,83.39,Ukraine1992,,"73,942,235,330",1525,G.I. Generation
+Ukraine,1992,male,35-54 years,3995,6422200,62.21,Ukraine1992,,"73,942,235,330",1525,Boomers
+Ukraine,1992,male,55-74 years,2323,4028200,57.67,Ukraine1992,,"73,942,235,330",1525,Silent
+Ukraine,1992,male,25-34 years,1589,3768500,42.17,Ukraine1992,,"73,942,235,330",1525,Boomers
+Ukraine,1992,female,75+ years,371,1858400,19.96,Ukraine1992,,"73,942,235,330",1525,G.I. Generation
+Ukraine,1992,male,15-24 years,623,3628400,17.17,Ukraine1992,,"73,942,235,330",1525,Generation X
+Ukraine,1992,female,55-74 years,920,6140300,14.98,Ukraine1992,,"73,942,235,330",1525,Silent
+Ukraine,1992,female,35-54 years,816,7111100,11.48,Ukraine1992,,"73,942,235,330",1525,Boomers
+Ukraine,1992,female,25-34 years,229,3822300,5.99,Ukraine1992,,"73,942,235,330",1525,Boomers
+Ukraine,1992,female,15-24 years,189,3534200,5.35,Ukraine1992,,"73,942,235,330",1525,Generation X
+Ukraine,1992,male,5-14 years,68,3833300,1.77,Ukraine1992,,"73,942,235,330",1525,Millenials
+Ukraine,1992,female,5-14 years,13,3704800,0.35,Ukraine1992,,"73,942,235,330",1525,Millenials
+Ukraine,1993,male,75+ years,559,608000,91.94,Ukraine1993,,"65,648,559,903",1349,G.I. Generation
+Ukraine,1993,male,35-54 years,4100,6371900,64.35,Ukraine1993,,"65,648,559,903",1349,Boomers
+Ukraine,1993,male,55-74 years,2654,4202500,63.15,Ukraine1993,,"65,648,559,903",1349,Silent
+Ukraine,1993,male,25-34 years,1691,3714200,45.53,Ukraine1993,,"65,648,559,903",1349,Boomers
+Ukraine,1993,female,75+ years,485,1795100,27.02,Ukraine1993,,"65,648,559,903",1349,G.I. Generation
+Ukraine,1993,male,15-24 years,795,3668700,21.67,Ukraine1993,,"65,648,559,903",1349,Generation X
+Ukraine,1993,female,55-74 years,940,6338500,14.83,Ukraine1993,,"65,648,559,903",1349,Silent
+Ukraine,1993,female,35-54 years,779,7042800,11.06,Ukraine1993,,"65,648,559,903",1349,Boomers
+Ukraine,1993,female,25-34 years,229,3766200,6.08,Ukraine1993,,"65,648,559,903",1349,Boomers
+Ukraine,1993,female,15-24 years,152,3565100,4.26,Ukraine1993,,"65,648,559,903",1349,Generation X
+Ukraine,1993,male,5-14 years,65,3869500,1.68,Ukraine1993,,"65,648,559,903",1349,Millenials
+Ukraine,1993,female,5-14 years,20,3738000,0.54,Ukraine1993,,"65,648,559,903",1349,Millenials
+Ukraine,1994,male,75+ years,569,590100,96.42,Ukraine1994,,"52,549,555,149",1081,G.I. Generation
+Ukraine,1994,male,55-74 years,3174,4314500,73.57,Ukraine1994,,"52,549,555,149",1081,Silent
+Ukraine,1994,male,35-54 years,4618,6326300,73.0,Ukraine1994,,"52,549,555,149",1081,Boomers
+Ukraine,1994,male,25-34 years,1763,3626300,48.62,Ukraine1994,,"52,549,555,149",1081,Boomers
+Ukraine,1994,female,75+ years,490,1751000,27.98,Ukraine1994,,"52,549,555,149",1081,G.I. Generation
+Ukraine,1994,male,15-24 years,879,3699700,23.76,Ukraine1994,,"52,549,555,149",1081,Generation X
+Ukraine,1994,female,55-74 years,1087,6467700,16.81,Ukraine1994,,"52,549,555,149",1081,Silent
+Ukraine,1994,female,35-54 years,761,6981000,10.9,Ukraine1994,,"52,549,555,149",1081,Boomers
+Ukraine,1994,female,25-34 years,232,3673200,6.32,Ukraine1994,,"52,549,555,149",1081,Boomers
+Ukraine,1994,female,15-24 years,175,3582800,4.88,Ukraine1994,,"52,549,555,149",1081,Generation X
+Ukraine,1994,male,5-14 years,60,3870700,1.55,Ukraine1994,,"52,549,555,149",1081,Millenials
+Ukraine,1994,female,5-14 years,18,3735700,0.48,Ukraine1994,,"52,549,555,149",1081,Millenials
+Ukraine,1995,male,75+ years,548,575700,95.19,Ukraine1995,0.662,"48,213,868,178",996,G.I. Generation
+Ukraine,1995,male,55-74 years,3505,4375300,80.11,Ukraine1995,0.662,"48,213,868,178",996,Silent
+Ukraine,1995,male,35-54 years,4986,6306200,79.07,Ukraine1995,0.662,"48,213,868,178",996,Boomers
+Ukraine,1995,male,25-34 years,1854,3534800,52.45,Ukraine1995,0.662,"48,213,868,178",996,Generation X
+Ukraine,1995,male,15-24 years,948,3722600,25.47,Ukraine1995,0.662,"48,213,868,178",996,Generation X
+Ukraine,1995,female,75+ years,405,1716300,23.6,Ukraine1995,0.662,"48,213,868,178",996,G.I. Generation
+Ukraine,1995,female,55-74 years,1029,6535200,15.75,Ukraine1995,0.662,"48,213,868,178",996,Silent
+Ukraine,1995,female,35-54 years,752,6952800,10.82,Ukraine1995,0.662,"48,213,868,178",996,Boomers
+Ukraine,1995,female,25-34 years,243,3568500,6.81,Ukraine1995,0.662,"48,213,868,178",996,Generation X
+Ukraine,1995,female,15-24 years,187,3596300,5.2,Ukraine1995,0.662,"48,213,868,178",996,Generation X
+Ukraine,1995,male,5-14 years,68,3834000,1.77,Ukraine1995,0.662,"48,213,868,178",996,Millenials
+Ukraine,1995,female,5-14 years,16,3697600,0.43,Ukraine1995,0.662,"48,213,868,178",996,Millenials
+Ukraine,1996,male,75+ years,502,566700,88.58,Ukraine1996,,"44,558,077,827",925,G.I. Generation
+Ukraine,1996,male,55-74 years,3821,4397200,86.9,Ukraine1996,,"44,558,077,827",925,Silent
+Ukraine,1996,male,35-54 years,5203,6305700,82.51,Ukraine1996,,"44,558,077,827",925,Boomers
+Ukraine,1996,male,25-34 years,1870,3471700,53.86,Ukraine1996,,"44,558,077,827",925,Generation X
+Ukraine,1996,male,15-24 years,1023,3723000,27.48,Ukraine1996,,"44,558,077,827",925,Generation X
+Ukraine,1996,female,75+ years,378,1692100,22.34,Ukraine1996,,"44,558,077,827",925,G.I. Generation
+Ukraine,1996,female,55-74 years,1079,6561400,16.44,Ukraine1996,,"44,558,077,827",925,Silent
+Ukraine,1996,female,35-54 years,783,6949100,11.27,Ukraine1996,,"44,558,077,827",925,Boomers
+Ukraine,1996,female,25-34 years,248,3485900,7.11,Ukraine1996,,"44,558,077,827",925,Generation X
+Ukraine,1996,female,15-24 years,165,3595700,4.59,Ukraine1996,,"44,558,077,827",925,Generation X
+Ukraine,1996,male,5-14 years,76,3782500,2.01,Ukraine1996,,"44,558,077,827",925,Millenials
+Ukraine,1996,female,5-14 years,12,3643500,0.33,Ukraine1996,,"44,558,077,827",925,Millenials
+Ukraine,1997,male,55-74 years,3735,4369600,85.48,Ukraine1997,,"50,150,399,792",1046,Silent
+Ukraine,1997,male,75+ years,475,568700,83.52,Ukraine1997,,"50,150,399,792",1046,G.I. Generation
+Ukraine,1997,male,35-54 years,4994,6339200,78.78,Ukraine1997,,"50,150,399,792",1046,Boomers
+Ukraine,1997,male,25-34 years,1859,3444700,53.97,Ukraine1997,,"50,150,399,792",1046,Generation X
+Ukraine,1997,male,15-24 years,986,3702700,26.63,Ukraine1997,,"50,150,399,792",1046,Generation X
+Ukraine,1997,female,75+ years,409,1699100,24.07,Ukraine1997,,"50,150,399,792",1046,G.I. Generation
+Ukraine,1997,female,55-74 years,1152,6513400,17.69,Ukraine1997,,"50,150,399,792",1046,Silent
+Ukraine,1997,female,35-54 years,795,6985700,11.38,Ukraine1997,,"50,150,399,792",1046,Boomers
+Ukraine,1997,female,25-34 years,248,3431000,7.23,Ukraine1997,,"50,150,399,792",1046,Generation X
+Ukraine,1997,female,15-24 years,172,3582900,4.8,Ukraine1997,,"50,150,399,792",1046,Generation X
+Ukraine,1997,male,5-14 years,61,3713800,1.64,Ukraine1997,,"50,150,399,792",1046,Millenials
+Ukraine,1997,female,5-14 years,17,3572200,0.48,Ukraine1997,,"50,150,399,792",1046,Millenials
+Ukraine,1998,male,55-74 years,3589,4280900,83.84,Ukraine1998,,"41,883,241,472",879,Silent
+Ukraine,1998,male,75+ years,458,581400,78.78,Ukraine1998,,"41,883,241,472",879,G.I. Generation
+Ukraine,1998,male,35-54 years,4969,6430500,77.27,Ukraine1998,,"41,883,241,472",879,Boomers
+Ukraine,1998,male,25-34 years,1830,3435200,53.27,Ukraine1998,,"41,883,241,472",879,Generation X
+Ukraine,1998,male,15-24 years,1049,3701100,28.34,Ukraine1998,,"41,883,241,472",879,Generation X
+Ukraine,1998,female,75+ years,432,1731300,24.95,Ukraine1998,,"41,883,241,472",879,G.I. Generation
+Ukraine,1998,female,55-74 years,1155,6376000,18.11,Ukraine1998,,"41,883,241,472",879,Silent
+Ukraine,1998,female,35-54 years,814,7089100,11.48,Ukraine1998,,"41,883,241,472",879,Boomers
+Ukraine,1998,female,25-34 years,219,3392600,6.46,Ukraine1998,,"41,883,241,472",879,Generation X
+Ukraine,1998,female,15-24 years,196,3589900,5.46,Ukraine1998,,"41,883,241,472",879,Generation X
+Ukraine,1998,male,5-14 years,53,3605000,1.47,Ukraine1998,,"41,883,241,472",879,Millenials
+Ukraine,1998,female,5-14 years,25,3462400,0.72,Ukraine1998,,"41,883,241,472",879,Millenials
+Ukraine,1999,male,55-74 years,3489,4166600,83.74,Ukraine1999,,"31,580,639,045",666,Silent
+Ukraine,1999,male,35-54 years,4878,6525800,74.75,Ukraine1999,,"31,580,639,045",666,Boomers
+Ukraine,1999,male,75+ years,426,605300,70.38,Ukraine1999,,"31,580,639,045",666,G.I. Generation
+Ukraine,1999,male,25-34 years,1800,3434800,52.4,Ukraine1999,,"31,580,639,045",666,Generation X
+Ukraine,1999,male,15-24 years,1054,3720800,28.33,Ukraine1999,,"31,580,639,045",666,Generation X
+Ukraine,1999,female,75+ years,451,1784000,25.28,Ukraine1999,,"31,580,639,045",666,G.I. Generation
+Ukraine,1999,female,55-74 years,1002,6200500,16.16,Ukraine1999,,"31,580,639,045",666,Silent
+Ukraine,1999,female,35-54 years,765,7197600,10.63,Ukraine1999,,"31,580,639,045",666,Boomers
+Ukraine,1999,female,25-34 years,247,3372900,7.32,Ukraine1999,,"31,580,639,045",666,Generation X
+Ukraine,1999,female,15-24 years,158,3614400,4.37,Ukraine1999,,"31,580,639,045",666,Generation X
+Ukraine,1999,male,5-14 years,79,3467900,2.28,Ukraine1999,,"31,580,639,045",666,Millenials
+Ukraine,1999,female,5-14 years,14,3324800,0.42,Ukraine1999,,"31,580,639,045",666,Millenials
+Ukraine,2000,male,55-74 years,3380,4033000,83.81,Ukraine2000,0.668,"31,261,527,363",663,Silent
+Ukraine,2000,male,35-54 years,5076,6605200,76.85,Ukraine2000,0.668,"31,261,527,363",663,Boomers
+Ukraine,2000,male,75+ years,446,634400,70.3,Ukraine2000,0.668,"31,261,527,363",663,G.I. Generation
+Ukraine,2000,male,25-34 years,1740,3450300,50.43,Ukraine2000,0.668,"31,261,527,363",663,Generation X
+Ukraine,2000,male,15-24 years,1097,3738100,29.35,Ukraine2000,0.668,"31,261,527,363",663,Generation X
+Ukraine,2000,female,75+ years,435,1844800,23.58,Ukraine2000,0.668,"31,261,527,363",663,G.I. Generation
+Ukraine,2000,female,55-74 years,956,6006000,15.92,Ukraine2000,0.668,"31,261,527,363",663,Silent
+Ukraine,2000,female,35-54 years,774,7293800,10.61,Ukraine2000,0.668,"31,261,527,363",663,Boomers
+Ukraine,2000,female,25-34 years,251,3382900,7.42,Ukraine2000,0.668,"31,261,527,363",663,Generation X
+Ukraine,2000,female,15-24 years,196,3630400,5.4,Ukraine2000,0.668,"31,261,527,363",663,Generation X
+Ukraine,2000,male,5-14 years,95,3325300,2.86,Ukraine2000,0.668,"31,261,527,363",663,Millenials
+Ukraine,2000,female,5-14 years,21,3181200,0.66,Ukraine2000,0.668,"31,261,527,363",663,Millenials
+Ukraine,2001,male,55-74 years,3001,3915328,76.65,Ukraine2001,,"38,009,344,577",812,Silent
+Ukraine,2001,male,35-54 years,4698,6650575,70.64,Ukraine2001,,"38,009,344,577",812,Boomers
+Ukraine,2001,male,75+ years,467,669093,69.8,Ukraine2001,,"38,009,344,577",812,Silent
+Ukraine,2001,male,25-34 years,1633,3474267,47.0,Ukraine2001,,"38,009,344,577",812,Generation X
+Ukraine,2001,male,15-24 years,1073,3754386,28.58,Ukraine2001,,"38,009,344,577",812,Millenials
+Ukraine,2001,female,75+ years,387,1908369,20.28,Ukraine2001,,"38,009,344,577",812,Silent
+Ukraine,2001,female,55-74 years,775,5837138,13.28,Ukraine2001,,"38,009,344,577",812,Silent
+Ukraine,2001,female,35-54 years,649,7353384,8.83,Ukraine2001,,"38,009,344,577",812,Boomers
+Ukraine,2001,female,25-34 years,218,3402526,6.41,Ukraine2001,,"38,009,344,577",812,Generation X
+Ukraine,2001,female,15-24 years,147,3645803,4.03,Ukraine2001,,"38,009,344,577",812,Millenials
+Ukraine,2001,male,5-14 years,67,3170134,2.11,Ukraine2001,,"38,009,344,577",812,Millenials
+Ukraine,2001,female,5-14 years,16,3024966,0.53,Ukraine2001,,"38,009,344,577",812,Millenials
+Ukraine,2002,male,75+ years,518,676228,76.6,Ukraine2002,,"42,392,896,031",920,Silent
+Ukraine,2002,male,55-74 years,2738,3911379,70.0,Ukraine2002,,"42,392,896,031",920,Silent
+Ukraine,2002,male,35-54 years,4398,6565032,66.99,Ukraine2002,,"42,392,896,031",920,Boomers
+Ukraine,2002,male,25-34 years,1660,3300031,50.3,Ukraine2002,,"42,392,896,031",920,Generation X
+Ukraine,2002,male,15-24 years,998,3782174,26.39,Ukraine2002,,"42,392,896,031",920,Millenials
+Ukraine,2002,female,75+ years,364,1946556,18.7,Ukraine2002,,"42,392,896,031",920,Silent
+Ukraine,2002,female,55-74 years,759,5786181,13.12,Ukraine2002,,"42,392,896,031",920,Silent
+Ukraine,2002,female,35-54 years,673,7327153,9.19,Ukraine2002,,"42,392,896,031",920,Boomers
+Ukraine,2002,female,25-34 years,218,3329776,6.55,Ukraine2002,,"42,392,896,031",920,Generation X
+Ukraine,2002,female,15-24 years,142,3643296,3.9,Ukraine2002,,"42,392,896,031",920,Millenials
+Ukraine,2002,male,5-14 years,55,2968238,1.85,Ukraine2002,,"42,392,896,031",920,Millenials
+Ukraine,2002,female,5-14 years,13,2823973,0.46,Ukraine2002,,"42,392,896,031",920,Millenials
+Ukraine,2003,male,75+ years,531,723626,73.38,Ukraine2003,,"50,132,953,288",1097,Silent
+Ukraine,2003,male,55-74 years,2648,3837902,69.0,Ukraine2003,,"50,132,953,288",1097,Silent
+Ukraine,2003,male,35-54 years,4312,6534189,65.99,Ukraine2003,,"50,132,953,288",1097,Boomers
+Ukraine,2003,male,25-34 years,1628,3316494,49.09,Ukraine2003,,"50,132,953,288",1097,Generation X
+Ukraine,2003,male,15-24 years,994,3808250,26.1,Ukraine2003,,"50,132,953,288",1097,Millenials
+Ukraine,2003,female,75+ years,381,2008320,18.97,Ukraine2003,,"50,132,953,288",1097,Silent
+Ukraine,2003,female,55-74 years,738,5689228,12.97,Ukraine2003,,"50,132,953,288",1097,Silent
+Ukraine,2003,female,35-54 years,669,7305670,9.16,Ukraine2003,,"50,132,953,288",1097,Boomers
+Ukraine,2003,female,25-34 years,214,3341089,6.41,Ukraine2003,,"50,132,953,288",1097,Generation X
+Ukraine,2003,female,15-24 years,131,3659937,3.58,Ukraine2003,,"50,132,953,288",1097,Millenials
+Ukraine,2003,male,5-14 years,50,2804341,1.78,Ukraine2003,,"50,132,953,288",1097,Millenials
+Ukraine,2003,female,5-14 years,17,2668337,0.64,Ukraine2003,,"50,132,953,288",1097,Millenials
+Ukraine,2004,male,75+ years,508,764031,66.49,Ukraine2004,,"64,883,060,726",1432,Silent
+Ukraine,2004,male,35-54 years,4132,6464700,63.92,Ukraine2004,,"64,883,060,726",1432,Boomers
+Ukraine,2004,male,55-74 years,2260,3807447,59.36,Ukraine2004,,"64,883,060,726",1432,Silent
+Ukraine,2004,male,25-34 years,1489,3342201,44.55,Ukraine2004,,"64,883,060,726",1432,Generation X
+Ukraine,2004,male,15-24 years,944,3810633,24.77,Ukraine2004,,"64,883,060,726",1432,Millenials
+Ukraine,2004,female,75+ years,373,2061225,18.1,Ukraine2004,,"64,883,060,726",1432,Silent
+Ukraine,2004,female,55-74 years,603,5648458,10.68,Ukraine2004,,"64,883,060,726",1432,Silent
+Ukraine,2004,female,35-54 years,585,7238033,8.08,Ukraine2004,,"64,883,060,726",1432,Boomers
+Ukraine,2004,female,25-34 years,183,3360017,5.45,Ukraine2004,,"64,883,060,726",1432,Generation X
+Ukraine,2004,female,15-24 years,109,3656474,2.98,Ukraine2004,,"64,883,060,726",1432,Millenials
+Ukraine,2004,male,5-14 years,58,2649047,2.19,Ukraine2004,,"64,883,060,726",1432,Millenials
+Ukraine,2004,female,5-14 years,12,2520560,0.48,Ukraine2004,,"64,883,060,726",1432,Millenials
+Ukraine,2005,male,75+ years,561,800543,70.08,Ukraine2005,0.713,"86,142,018,069",1917,Silent
+Ukraine,2005,male,35-54 years,3771,6387431,59.04,Ukraine2005,0.713,"86,142,018,069",1917,Boomers
+Ukraine,2005,male,55-74 years,2151,3793291,56.71,Ukraine2005,0.713,"86,142,018,069",1917,Silent
+Ukraine,2005,male,25-34 years,1467,3369930,43.53,Ukraine2005,0.713,"86,142,018,069",1917,Generation X
+Ukraine,2005,male,15-24 years,861,3784581,22.75,Ukraine2005,0.713,"86,142,018,069",1917,Millenials
+Ukraine,2005,female,75+ years,342,2109628,16.21,Ukraine2005,0.713,"86,142,018,069",1917,Silent
+Ukraine,2005,female,55-74 years,576,5634590,10.22,Ukraine2005,0.713,"86,142,018,069",1917,Silent
+Ukraine,2005,female,35-54 years,515,7160448,7.19,Ukraine2005,0.713,"86,142,018,069",1917,Boomers
+Ukraine,2005,female,25-34 years,182,3380536,5.38,Ukraine2005,0.713,"86,142,018,069",1917,Generation X
+Ukraine,2005,female,15-24 years,139,3626595,3.83,Ukraine2005,0.713,"86,142,018,069",1917,Millenials
+Ukraine,2005,male,5-14 years,49,2506950,1.95,Ukraine2005,0.713,"86,142,018,069",1917,Millenials
+Ukraine,2005,female,5-14 years,7,2384747,0.29,Ukraine2005,0.713,"86,142,018,069",1917,Millenials
+Ukraine,2006,male,75+ years,562,825192,68.11,Ukraine2006,,"107,753,069,307",2418,Silent
+Ukraine,2006,male,35-54 years,3420,6336363,53.97,Ukraine2006,,"107,753,069,307",2418,Boomers
+Ukraine,2006,male,55-74 years,1993,3782567,52.69,Ukraine2006,,"107,753,069,307",2418,Silent
+Ukraine,2006,male,25-34 years,1455,3390847,42.91,Ukraine2006,,"107,753,069,307",2418,Generation X
+Ukraine,2006,male,15-24 years,837,3739295,22.38,Ukraine2006,,"107,753,069,307",2418,Millenials
+Ukraine,2006,female,75+ years,333,2134223,15.6,Ukraine2006,,"107,753,069,307",2418,Silent
+Ukraine,2006,female,55-74 years,563,5633228,9.99,Ukraine2006,,"107,753,069,307",2418,Silent
+Ukraine,2006,female,35-54 years,540,7108424,7.6,Ukraine2006,,"107,753,069,307",2418,Boomers
+Ukraine,2006,female,25-34 years,170,3394295,5.01,Ukraine2006,,"107,753,069,307",2418,Generation X
+Ukraine,2006,female,15-24 years,98,3577436,2.74,Ukraine2006,,"107,753,069,307",2418,Millenials
+Ukraine,2006,male,5-14 years,33,2377451,1.39,Ukraine2006,,"107,753,069,307",2418,Millenials
+Ukraine,2006,female,5-14 years,9,2260713,0.4,Ukraine2006,,"107,753,069,307",2418,Millenials
+Ukraine,2007,male,75+ years,517,830015,62.29,Ukraine2007,,"142,719,009,901",3229,Silent
+Ukraine,2007,male,35-54 years,3392,6292640,53.9,Ukraine2007,,"142,719,009,901",3229,Boomers
+Ukraine,2007,male,55-74 years,1922,3792721,50.68,Ukraine2007,,"142,719,009,901",3229,Silent
+Ukraine,2007,male,25-34 years,1546,3414696,45.27,Ukraine2007,,"142,719,009,901",3229,Generation X
+Ukraine,2007,male,15-24 years,987,3673201,26.87,Ukraine2007,,"142,719,009,901",3229,Millenials
+Ukraine,2007,female,75+ years,325,2125683,15.29,Ukraine2007,,"142,719,009,901",3229,Silent
+Ukraine,2007,female,55-74 years,483,5668759,8.52,Ukraine2007,,"142,719,009,901",3229,Silent
+Ukraine,2007,female,35-54 years,500,7060722,7.08,Ukraine2007,,"142,719,009,901",3229,Boomers
+Ukraine,2007,female,25-34 years,181,3405078,5.32,Ukraine2007,,"142,719,009,901",3229,Generation X
+Ukraine,2007,female,15-24 years,129,3511720,3.67,Ukraine2007,,"142,719,009,901",3229,Millenials
+Ukraine,2007,male,5-14 years,39,2268187,1.72,Ukraine2007,,"142,719,009,901",3229,Generation Z
+Ukraine,2007,female,5-14 years,11,2155250,0.51,Ukraine2007,,"142,719,009,901",3229,Generation Z
+Ukraine,2008,male,75+ years,554,818086,67.72,Ukraine2008,,"179,992,405,832",4104,Silent
+Ukraine,2008,male,55-74 years,1854,3810278,48.66,Ukraine2008,,"179,992,405,832",4104,Silent
+Ukraine,2008,male,35-54 years,3027,6254054,48.4,Ukraine2008,,"179,992,405,832",4104,Boomers
+Ukraine,2008,male,25-34 years,1452,3466915,41.88,Ukraine2008,,"179,992,405,832",4104,Generation X
+Ukraine,2008,male,15-24 years,856,3561320,24.04,Ukraine2008,,"179,992,405,832",4104,Millenials
+Ukraine,2008,female,75+ years,347,2087152,16.63,Ukraine2008,,"179,992,405,832",4104,Silent
+Ukraine,2008,female,55-74 years,483,5726858,8.43,Ukraine2008,,"179,992,405,832",4104,Silent
+Ukraine,2008,female,35-54 years,528,7018040,7.52,Ukraine2008,,"179,992,405,832",4104,Boomers
+Ukraine,2008,female,25-34 years,182,3441323,5.29,Ukraine2008,,"179,992,405,832",4104,Generation X
+Ukraine,2008,female,15-24 years,118,3405168,3.47,Ukraine2008,,"179,992,405,832",4104,Millenials
+Ukraine,2008,male,5-14 years,36,2188808,1.64,Ukraine2008,,"179,992,405,832",4104,Generation Z
+Ukraine,2008,female,5-14 years,17,2078121,0.82,Ukraine2008,,"179,992,405,832",4104,Generation Z
+Ukraine,2009,male,75+ years,532,802009,66.33,Ukraine2009,,"117,227,769,792",2691,Silent
+Ukraine,2009,male,35-54 years,3133,6221337,50.36,Ukraine2009,,"117,227,769,792",2691,Boomers
+Ukraine,2009,male,55-74 years,1882,3841612,48.99,Ukraine2009,,"117,227,769,792",2691,Silent
+Ukraine,2009,male,25-34 years,1504,3534883,42.55,Ukraine2009,,"117,227,769,792",2691,Generation X
+Ukraine,2009,male,15-24 years,906,3418274,26.5,Ukraine2009,,"117,227,769,792",2691,Millenials
+Ukraine,2009,female,75+ years,313,2034703,15.38,Ukraine2009,,"117,227,769,792",2691,Silent
+Ukraine,2009,female,55-74 years,556,5806966,9.57,Ukraine2009,,"117,227,769,792",2691,Silent
+Ukraine,2009,female,35-54 years,502,6971143,7.2,Ukraine2009,,"117,227,769,792",2691,Boomers
+Ukraine,2009,female,25-34 years,186,3494937,5.32,Ukraine2009,,"117,227,769,792",2691,Generation X
+Ukraine,2009,female,15-24 years,148,3267238,4.53,Ukraine2009,,"117,227,769,792",2691,Millenials
+Ukraine,2009,male,5-14 years,34,2136975,1.59,Ukraine2009,,"117,227,769,792",2691,Generation Z
+Ukraine,2009,female,5-14 years,19,2027867,0.94,Ukraine2009,,"117,227,769,792",2691,Generation Z
+Ukraine,2010,male,75+ years,495,804695,61.51,Ukraine2010,0.732,"136,013,155,905",3141,Silent
+Ukraine,2010,male,55-74 years,1827,3866232,47.26,Ukraine2010,0.732,"136,013,155,905",3141,Silent
+Ukraine,2010,male,35-54 years,2853,6203439,45.99,Ukraine2010,0.732,"136,013,155,905",3141,Generation X
+Ukraine,2010,male,25-34 years,1457,3589324,40.59,Ukraine2010,0.732,"136,013,155,905",3141,Generation X
+Ukraine,2010,male,15-24 years,843,3271660,25.77,Ukraine2010,0.732,"136,013,155,905",3141,Millenials
+Ukraine,2010,female,75+ years,303,2016954,15.02,Ukraine2010,0.732,"136,013,155,905",3141,Silent
+Ukraine,2010,female,55-74 years,479,5860094,8.17,Ukraine2010,0.732,"136,013,155,905",3141,Silent
+Ukraine,2010,female,35-54 years,458,6928455,6.61,Ukraine2010,0.732,"136,013,155,905",3141,Generation X
+Ukraine,2010,female,15-24 years,154,3125122,4.93,Ukraine2010,0.732,"136,013,155,905",3141,Millenials
+Ukraine,2010,female,25-34 years,170,3534635,4.81,Ukraine2010,0.732,"136,013,155,905",3141,Generation X
+Ukraine,2010,male,5-14 years,35,2102478,1.66,Ukraine2010,0.732,"136,013,155,905",3141,Generation Z
+Ukraine,2010,female,5-14 years,15,1993721,0.75,Ukraine2010,0.732,"136,013,155,905",3141,Generation Z
+Ukraine,2011,male,75+ years,531,830200,63.96,Ukraine2011,0.738,"163,159,671,670",3788,Silent
+Ukraine,2011,male,55-74 years,1761,3877753,45.41,Ukraine2011,0.738,"163,159,671,670",3788,Boomers
+Ukraine,2011,male,35-54 years,2664,6194997,43.0,Ukraine2011,0.738,"163,159,671,670",3788,Generation X
+Ukraine,2011,male,25-34 years,1457,3638908,40.04,Ukraine2011,0.738,"163,159,671,670",3788,Millenials
+Ukraine,2011,male,15-24 years,850,3114554,27.29,Ukraine2011,0.738,"163,159,671,670",3788,Millenials
+Ukraine,2011,female,75+ years,311,2047428,15.19,Ukraine2011,0.738,"163,159,671,670",3788,Silent
+Ukraine,2011,female,55-74 years,552,5873828,9.4,Ukraine2011,0.738,"163,159,671,670",3788,Boomers
+Ukraine,2011,female,35-54 years,464,6890333,6.73,Ukraine2011,0.738,"163,159,671,670",3788,Generation X
+Ukraine,2011,female,15-24 years,157,2973653,5.28,Ukraine2011,0.738,"163,159,671,670",3788,Millenials
+Ukraine,2011,female,25-34 years,160,3570316,4.48,Ukraine2011,0.738,"163,159,671,670",3788,Millenials
+Ukraine,2011,male,5-14 years,46,2085831,2.21,Ukraine2011,0.738,"163,159,671,670",3788,Generation Z
+Ukraine,2011,female,5-14 years,20,1976990,1.01,Ukraine2011,0.738,"163,159,671,670",3788,Generation Z
+Ukraine,2012,male,75+ years,590,878262,67.18,Ukraine2012,0.743,"175,781,379,051",4096,Silent
+Ukraine,2012,male,55-74 years,1768,3880830,45.56,Ukraine2012,0.743,"175,781,379,051",4096,Boomers
+Ukraine,2012,male,35-54 years,2680,6175567,43.4,Ukraine2012,0.743,"175,781,379,051",4096,Generation X
+Ukraine,2012,male,25-34 years,1450,3692383,39.27,Ukraine2012,0.743,"175,781,379,051",4096,Millenials
+Ukraine,2012,male,15-24 years,838,2960881,28.3,Ukraine2012,0.743,"175,781,379,051",4096,Millenials
+Ukraine,2012,female,75+ years,347,2131156,16.28,Ukraine2012,0.743,"175,781,379,051",4096,Silent
+Ukraine,2012,female,55-74 years,524,5852504,8.95,Ukraine2012,0.743,"175,781,379,051",4096,Boomers
+Ukraine,2012,female,35-54 years,494,6837697,7.22,Ukraine2012,0.743,"175,781,379,051",4096,Generation X
+Ukraine,2012,female,25-34 years,186,3607893,5.16,Ukraine2012,0.743,"175,781,379,051",4096,Millenials
+Ukraine,2012,female,15-24 years,126,2819749,4.47,Ukraine2012,0.743,"175,781,379,051",4096,Millenials
+Ukraine,2012,male,5-14 years,35,2094456,1.67,Ukraine2012,0.743,"175,781,379,051",4096,Generation Z
+Ukraine,2012,female,5-14 years,20,1984557,1.01,Ukraine2012,0.743,"175,781,379,051",4096,Generation Z
+Ukraine,2014,male,75+ years,608,919141,66.15,Ukraine2014,0.747,"133,503,411,376",3299,Silent
+Ukraine,2014,male,55-74 years,1558,3702856,42.08,Ukraine2014,0.747,"133,503,411,376",3299,Boomers
+Ukraine,2014,male,35-54 years,2363,5814873,40.64,Ukraine2014,0.747,"133,503,411,376",3299,Generation X
+Ukraine,2014,male,25-34 years,1302,3543016,36.75,Ukraine2014,0.747,"133,503,411,376",3299,Millenials
+Ukraine,2014,male,15-24 years,560,2541203,22.04,Ukraine2014,0.747,"133,503,411,376",3299,Millenials
+Ukraine,2014,female,75+ years,339,2203221,15.39,Ukraine2014,0.747,"133,503,411,376",3299,Silent
+Ukraine,2014,female,55-74 years,465,5487093,8.47,Ukraine2014,0.747,"133,503,411,376",3299,Boomers
+Ukraine,2014,female,35-54 years,423,6365806,6.64,Ukraine2014,0.747,"133,503,411,376",3299,Generation X
+Ukraine,2014,female,25-34 years,197,3444110,5.72,Ukraine2014,0.747,"133,503,411,376",3299,Millenials
+Ukraine,2014,female,15-24 years,118,2408666,4.9,Ukraine2014,0.747,"133,503,411,376",3299,Millenials
+Ukraine,2014,male,5-14 years,21,2074827,1.01,Ukraine2014,0.747,"133,503,411,376",3299,Generation Z
+Ukraine,2014,female,5-14 years,14,1959353,0.71,Ukraine2014,0.747,"133,503,411,376",3299,Generation Z
